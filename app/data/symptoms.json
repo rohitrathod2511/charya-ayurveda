@@ -1,0 +1,1463 @@
+{
+	"symptoms": [
+		{
+			"id": 1,
+			"disorderId": 1,
+			"name": "आम्लपित्त (Hyperacidity)",
+			"symptoms": {
+				"mr": [
+          "१) पोटात तिखट किंवा आंबटपणाचा अनुभव;",
+          "२) तोंडाला आंबट चव येणे;",
+          "३) उलट्या किंवा मळमळ होणे;",
+          "४) पोटात वेदना किंवा जडपणाची भावना;",
+          "५) खोकला किंवा घशात खरखर होणे;"
+				],
+				"en": [
+          "1) Burning sensation or acidity in stomach",
+          "2) Sour taste in mouth",
+          "3) Nausea or vomiting",
+          "4) Stomach pain or heaviness",
+          "5) Cough or throat irritation"
+				]
+			},
+			"remedies": {
+				"mr": [
+          "1) या स्थितीच्या सर्व कारणे टाळावीत;",
+          "2) आवळ्याच्या रसात आलं टाकून ते प्यायला हायपरअसिडिटी कमी होऊ शकते. हायपरअसिडिटी कमी करण्यासाठी आलं प्रभावी ठरते;",
+          "3) शक्यतो उपवास करावा;",
+          "4) आश्वगंधा: आश्वगंधाचे सेवन केल्याने पचन प्रक्रिया सुधारते आणि हायपरअसिडिटीच्या समस्या कमी होतात;",
+          "5) शंखवटी : २ - २ गोळ्या काही खाल्ल्यावर दिवसातून २ - ३ वेळा घ्याव्यात;",
+          "6) साधे पाणी: जास्त पाणी प्यायला हायपरअसिडिटीवर नियंत्रण ठेवता येऊ शकते, कारण पाणी पचनीं मदत करते;",
+          "7) सूतशेखर रस (१२५ मि. ग्रॅ. ची १ गोळी) २२ गोळ्या दिवसातून ३ - ४ वेळा तूप वा पाण्याबरोबर विशेषतः जेवणानंतर घ्याव्यात;",
+          "8) सुपारी: सुपारी चावून खाल्ली तर ती पचनसंस्थेस मदत करते आणि हायपरअसिडिटी कमी करते;",
+          "9) कामदुधारस : (२५० मि. ग्रॅ. ची १ गोळी) २ - २ गोळ्या दिवसातून ३ - ४ वेळा घ्याव्यात;",
+          "10) तुळशीचे पाणी: तुळशीचे पाणी प्यायल्याने शरीराची प्रतिकारशक्ती वाढते आणि हायपरअसिडिटीच्या समस्येवरही त्याचा सकारात्मक परिणाम होतो;",
+          "11) निम्बादि चूर्ण ११ ग्रॅम या प्रमाणात दिवसातून २ - २ वेळा पाण्याबरोबर घ्यावे;",
+          "12) दुध आणि मिश्री: गोड दूध प्यायल्याने किंवा दूधात मिश्री घालून प्यायल्याने हायपरअसिडिटी दूर होऊ शकते;",
+          "13) आवळा मुरंबा ११ आवळा सकाळ व रात्रौ शक्यतो रिकाम्या पोटी खावा;",
+          "14) बदाम: रोज बदाम खाल्ल्याने हायपरअसिडिटी कमी होण्यास मदत होते;",
+          "15) स्वादिष्ट विरेचन चूर्ण:१- १ ग्रॅम या प्रमाणात सकाळ व रात्रौ पाण्याबरोबर घ्यावे. अर्धा जुलाब झाल्यास अधिक चांगले. शक्यतो रात्रौ झोपताना २ ग्रॅम चूर्ण गरम पाण्याबरोबर घ्यावे शौचास साफ होईल;"
+				],
+				"en": [
+          "1) Avoid all factors that trigger this condition",
+          "2) Ginger water: Mix ginger in amla juice and drink to reduce hyperacidity",
+          "3) Fast if possible",
+          "4) Ashwagandha: Taking ashwagandha improves digestion",
+          "5) Shankhavati: Take 2 tablets 2-3 times a day after meals",
+          "6) Plain water: Drinking more water helps control hyperacidity",
+          "7) Sutshekhar Ras: Take 3-4 times a day with ghee or water",
+          "8) Betel nut: Chewing betel nut helps with digestion",
+          "9) Kamdudha Ras: Take 3-4 times a day",
+          "10) Tulsi water: Drinking tulsi water boosts the body's immunity and has a positive impact on hyperacidity",
+          "11) Nimbadadi Churna: Take 11 grams twice a day with water",
+          "12) Milk and sugar: Drinking sweet milk or adding sugar to milk can help alleviate hyperacidity",
+          "13) Amla murabba: Eat 11 amlas in the morning and evening on an empty stomach",
+          "14) Almonds: Eating almonds daily can help reduce hyperacidity",
+          "15) Swadishta Virechan Churna: Take 1-1 gram twice a day with water. If half a bowel movement occurs, it is even better. Take 2 grams of the powder with warm water at night to ensure a clean bowel movement"
+				]
+			}
+		},
+		{
+			"id": 2,
+			"disorderId": 2,
+			"name": "आमांश (Amoebic Dysentry)",
+			"symptoms": {
+				"mr": [
+          "१) पोटात वेदना किंवा जड पण होऊ शकते विशेषता पोटाच्या खालच्या भागात;",
+          "२) भूक न लागणे किंवा अपचन होणे;",
+          "३) कधी कधी उलट्या किंवा आम्लपित्त होते;",
+          "४) काही लोकांचे डोके दुखणे किंवा शरीरातले इतर भाग दुखू शकतात;",
+          "५) शरीर कमजोर होऊ शकते व खूप थकल्यासारखे वाटू शकते आणि दस्तपणा जाणून येऊ शकतो;"
+        ],
+				"en": [
+          "1) Pain or heaviness in the stomach, especially in the lower abdomen",
+          "2) Loss of appetite or indigestion",
+          "3) Occasional vomiting or acidity",
+          "4) Some people may experience headache or pain in other parts of the body",
+          "5) Body may feel weak, extreme fatigue, and awareness of loose motions"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) त्रिफळा चूर्ण एक ते दोन ग्रॅम रात्री झोपताना गरम पाण्याबरोबर घ्यावे;",
+          "२) डाळिंबाच्या सालीचा काढा करून अर्धा कप या प्रमाणात सकाळ व संध्याकाळी घ्यावे;",
+          "३) लोणी न काढलेल्या ताकात सैंधव मीठ घालून ते ताक प्यावे;"
+        ],
+				"en": [
+          "1) Take 1-2 grams of Triphala powder with warm water before bedtime",
+          "2) Take half a cup of pomegranate peel decoction in the morning and evening",
+          "3) Drink buttermilk with rock salt (without removing butter)"
+        ]
+			}
+		},
+		{
+			"id": 3,
+			"disorderId": 3,
+			"name": "मूळव्याध (PILES)",
+			"symptoms": {
+				"mr": [
+          "१) मलद्वारातून रक्त येणे जे मुळव्याधाचे प्रमुख लक्षण आहे;",
+          "२) मल किंवा गॅस पास होण्यास त्रास होणे;",
+          "३) खूप जास्त खाज किंवा जळजळ होणे;",
+          "४) मलद्वाराच्या आसपास सूज किंवा गाठी येणे;"
+        ],
+				"en": [
+          "1) Bleeding from the rectum which is the main symptom of piles",
+          "2) Difficulty in passing stool or gas",
+          "3) Severe itching or burning sensation",
+          "4) Swelling or lumps around the anal area"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) त्रिफळा चूर्ण एक ते दोन ग्रॅम रात्री झोपताना गरम पाण्याबरोबर घ्यावे;",
+          "२) डाळिंबाच्या सालीचा काढा करून अर्धा कप या प्रमाणात सकाळ व संध्याकाळी घ्यावा;",
+          "३) लोणी न काढलेल्या ताकात सैंधव मीठ घालून ते ताक प्यावे;",
+          "४) हिरड्याचे चूर्ण एक एक ग्रॅम या प्रमाणात दिवसातून दोन वेळा गरम पाण्याबरोबर घ्यावी;",
+          "५) अंजीर मुळव्यादावर प्रभावी उपचार म्हणून वापरले जाते अंजिराचे नियमित सेवन केल्याने मूळव्याध कमी होऊ शकतो;",
+          "६) तुळशीच्या पानाचा काढा रोज सकाळी सेवन करावा;",
+          "७) लिंबू कापून अर्ध्या लिंबावर सैंधव नमक टाकून खावे आराम पडतो;",
+          "८) हिरडा वावडिंग कुड्याची साल व चित्रकमूळ यांचे समभाग चूर्ण घेऊन ते एक एक ग्रॅम पाण्यात दिवसातून तीन वेळा ताकाबरोबर घ्यावे;",
+          "९) मुळव्याधीसाठी पाणी आणि फायबर्सचेसेवन अत्यंत महत्त्वाचे आहे अधिक फायबर्स असलेले आहार जसे की भाज्या फळे संपूर्ण धान्य पुरेसे पाणी पिऊन आराम मिळतो समस्या टाळता येते;",
+          "वजन कमी करण्यासाठी आपला आहार व्यायाम आणि जीवनशैली योग्य ठेवा घरगुती उपाय सोबत योग्य मार्गदर्शन घेणे आणि डॉक्टरचा सल्ला घेणे महत्त्वाचे आहे;",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे;"
+        ],
+				"en": [
+          "1) Take 1-2 grams of Triphala powder with warm water before bedtime",
+          "2) Take half a cup of pomegranate peel decoction in the morning and evening",
+          "3) Drink buttermilk with rock salt (without removing butter)",
+          "4) Take 1 gram of Haritaki powder twice a day with warm water",
+          "5) Figs are used as an effective treatment for piles, regular consumption of figs can help reduce piles",
+          "6) Take tulsi leaf decoction every morning",
+          "7) Cut a lemon, add rock salt to half of it and eat it for relief",
+          "8) Take equal parts powder of Haritaki, Bavding bark and Chitrakmool, take 1 gram three times a day with buttermilk",
+          "9) Water and fiber intake is very important for piles. High fiber foods like vegetables, fruits, whole grains, and adequate water intake provide relief and prevent problems",
+          "Maintain proper diet, exercise and lifestyle for weight loss, along with home remedies, proper guidance and doctor's advice is important",
+          "Note: These are home remedies, if the problem persists, consult a doctor"
+        ]
+			}
+		},
+		{
+			"id": 4,
+			"disorderId": 4,
+			"name": "तोंड येणे (Stomatitis)",
+			"symptoms": {
+				"mr": [
+          "१) गिळताना त्रास होणे;",
+          "२) ओठ वाळलेली किंवा चटके बसलेले जाणवणे;",
+          "३) तोंडातून दुर्गंध येणे;",
+          "४) तोंड किंवा गळ्यात खरखरता जाणवणे;",
+          "५) तोंडाची आग होणे;"
+        ],
+				"en": [
+          "1) Difficulty in swallowing",
+          "2) Dry or cracked lips",
+          "3) Bad breath",
+          "4) Roughness in mouth or throat",
+          "5) Burning sensation in mouth"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) तीळाचे तेल कोमट करून वा गरम पाण्यात घेऊन त्याने गुळण्या कराव्यात;",
+          "२) तांदळाचे पाणी गरम करुन त्याने तोंड गुळण्या करा. यामुळे सूज कमी होईल आणि जळजळही कमी होईल;",
+          "३) शंखजीरे व दुधाची साय एकत्र मिसळून त्या वज्रांवर लावावी;",
+          "४) निंबाच्या रसात थोडं मध घालून ते मिश्रण तोंडात ठेवा. यामुळे तोंडाची स्वच्छता होईल आणि जळजळ कमी होईल;",
+          "५) जेवणात तुपाचा, ताकाचा वापर करावा;",
+          "६) पुदिना पाण्यात उकळून गुळण्या करा. पुदिन्यात अँटीबॅक्टेरियल गुण असतात जे तोंडाच्या इन्फेक्शनला कमी करतात;",
+          "७) जाईची पाने वारंवार चावून धुंकून टाकावीत;",
+          "८) आलं ताजं चोथा करून त्याचा रस तोंडात ठेवा. आलं सूज कमी करण्यास मदत करतो;",
+          "९) अडुळसा, त्रिफळा, जाईची पाने यांचा काढा करून त्या काढ्याने सकाळी व रात्रौ गुळण्या कराव्यात;",
+          "१०) तुळशीचे पाणी किंवा तुळशीच्या पानांचा काढा उकळून तोंड गुळण्या करा. तुळशीमध्ये अँटी-इन्फ्लेमेटरी आणि अँटीबॅक्टेरियल गुण असतात;",
+          "११) सोनकाव (गेरू) तुपात मिसळून तोंडातील व्रणांवर लावावी;",
+          "१२) 1/2 चमचा मीठ 1 कप गरम पाण्यात घालून त्याने गुळण्या करा. यामुळे तोंडाच्या सूजेवर आराम मिळू शकतो;",
+          "१३) त्रिफळा चूर्ण: १२ ग्रॅम या प्रमाणात रात्रौ झोपताना गरम पाण्याबराबेर घ्यावे;",
+          "१४) तिखट आणि चवदार पदार्थ टाळा, तसेच जास्त आंबट आणि गोड पदार्थही कमी करा. फळे आणि ताज्या भाज्यांचा समावेश करा;",
+          "१५) गुलकंद (प्रवाळयुक्त) सकाळी व रात्रौ १ - २ चमचे खाव: (हे घरगुती उपाय काही प्रमाणात आराम देऊ शकतात, पण जर समस्या कायम राहिली तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे);",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे;"
+        ],
+				"en": [
+          "1) Gargle with lukewarm sesame oil or warm water",
+          "2) Gargle with warm rice water. This will reduce swelling and burning sensation",
+          "3) Mix fennel seeds and cream of milk and apply on ulcers",
+          "4) Mix neem juice with honey and keep in mouth. This will clean the mouth and reduce burning sensation",
+          "5) Use ghee and buttermilk in meals",
+          "6) Boil mint in water and gargle. Mint has antibacterial properties that reduce mouth infections",
+          "7) Chew and spit out jasmine leaves frequently",
+          "8) Make fresh ginger paste and keep its juice in mouth. Ginger helps reduce swelling",
+          "9) Make a decoction of Adulsa, Triphala, and jasmine leaves and gargle morning and night",
+          "10) Gargle with tulsi water or boiled tulsi leaf decoction. Tulsi has anti-inflammatory and antibacterial properties",
+          "11) Mix red ochre with ghee and apply on mouth ulcers",
+          "12) Gargle with 1/2 teaspoon salt in 1 cup warm water. This can provide relief from mouth swelling",
+          "13) Take 12 grams of Triphala powder with warm water before bedtime",
+          "14) Avoid spicy and flavored foods, also reduce sour and sweet items. Include fruits and fresh vegetables",
+          "15) Take 1-2 teaspoons of Gulkand (with coral) morning and night: (These home remedies can provide some relief, but if the problem persists, consult a doctor)",
+          "Note: These are home remedies, if the problem worsens, consult a doctor"
+        ]
+			}
+		},
+		{
+			"id": 5,
+			"disorderId": 5,
+			"name": "कंबर दुखी (Waist pain)",
+			"symptoms": {
+				"mr": [
+          "१) कमरेमध्ये वेदना;",
+          "२) चलन विचलन;",
+          "३) पाठ दुखी;",
+          "४) कंबर मध्ये जडपणा;",
+          "५) झोपेची अडचण;",
+          "६) तणाव आणि थकवा;",
+          "७) ताणलेल्या स्नायूमध्ये कडकपण;"
+        ],
+				"en": [
+          "1) Pain in the waist",
+          "2) Movement difficulties",
+          "3) Back pain",
+          "4) Heaviness in waist",
+          "5) Difficulty in sleeping",
+          "6) Stress and fatigue",
+          "7) Stiffness in strained muscles"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) कंबरदुखीसाठी गरम पॅक किंवा गरम पाणी बॉटल वापरणे आरामदायक ठरू शकते. हे मसल्स आराम देते आणि रक्तसंचार सुधारते;",
+          "२) एक चमचा आल्याचा रसात अर्धा चमचा मध टाकून प्यावे असे दोन-तीन वेळा दिवसातून करावे;",
+          "३) तुळशीच्या पानांचे एक चांगले अर्क तयार करून ते प्यावे. तुळशीमध्ये सूजन कमी करणारे आणि वेदना कमी करणारे गुण असतात;",
+          "४) दोन ग्लास पाण्यामध्ये जिरे ओवा दोन तमालपत्र टाकून मंद आचेवर उकळून त्याचा एक ग्लास काढा तयार करा तयार करण्यामध्ये एक चमचा मध टाका व अर्धा काढा सकाळी घ्या आणि अर्धा काढा संध्याकाळी घ्या;",
+          "५) गंधर्वतुलसी तेल किंवा नारळ तेल वापरून कंबरेवर हलक्या हाताने मालिश करा या तेलामध्ये सूजन कमी करणारे आणि वेदना कमी करणारे गुण असतात;",
+          "६) गावरान लासूनाच्या दहा-बारा पाकळ्या एक जायफळ कुठून घ्या अर्धी वाटी राईचे तेल घेऊन त्यामध्ये दहा ते बारा लसूण पाकळ्या टाका गरम करून घ्या त्यात जायफळाची पावडर टाका गरम झाल्यानंतर ते तेल गाळून घ्या आणि कमरेला चोळा;",
+          "७) हळदीमध्ये सूजनविरोधी आणि वेदनाशामक गुण असतात. एक चमचा हळद गरम दूधात घालून प्यायल्याने कंबरदुखी कमी होऊ शकते;",
+          "८) दोन खरिकाची पूड करा गूळ अर्धा चमचा अर्धा चमचा तूप आणि मध एक चमचा आणि यांचं मिश्रण करून सकाळ-संध्याकाळ;",
+          "९) नारळाचे तेल घ्या त्या तेलामध्ये पाच ते सहा लसूण पाकळ्या उकळून घ्या थंड झाल्यावर कमरेला लावा;",
+          "१०) गंधर्वतुलसी तेल कंबरेवर लावून हलक्या हाताने मालिश करा. यामुळे वेदना कमी होतात आणि आराम मिळतो;",
+          "सूचना:- हे घरगुती उपाय आहेत जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे;"
+        ],
+				"en": [
+          "1) Using a hot pack or hot water bottle can be comfortable for waist pain. This relaxes muscles and improves blood circulation",
+          "2) Take one spoonful of ginger juice mixed with half spoon honey two-three times a day",
+          "3) Prepare and drink a good extract of tulsi leaves. Tulsi has anti-inflammatory and pain-relieving properties",
+          "4) Boil cumin, carom seeds and two bay leaves in two glasses of water on low heat to make one glass decoction, add one spoon honey and take half portion in morning and half in evening",
+          "5) Gently massage the waist with Gandharva Tulsi oil or coconut oil, these oils have anti-inflammatory and pain-relieving properties",
+          "6) Take ten-twelve cloves of native garlic, one nutmeg, half cup mustard oil, heat it with garlic cloves, add nutmeg powder, strain the oil after heating and massage on waist",
+          "7) Turmeric has anti-inflammatory and analgesic properties. Drinking one spoon turmeric in warm milk can help reduce waist pain",
+          "8) Make powder of two dates, mix with half spoon jaggery, half spoon ghee and one spoon honey, take morning-evening",
+          "9) Take coconut oil, boil five to six garlic cloves in it, apply to waist after cooling",
+          "10) Apply Gandharva Tulsi oil on waist and massage gently. This reduces pain and provides relief",
+          "Note: These are home remedies, if the problem worsens, consult a doctor"
+        ]
+			}
+		},
+		{
+			"id": 6,
+			"disorderId": 6,
+			"name": "आवाज बसणे (Horseness of voice)",
+			"symptoms": {
+				"mr": [
+          "१) धडधड जाणवणे;",
+          "२) आवाजात कटकट;",
+          "३) आवाज गडद किंवा रुक्ष;",
+          "४) लांब बोलल्यावर आवाज कमी होणे;"
+        ],
+				"en": [
+          "1) Feeling of palpitations",
+          "2) Roughness in voice",
+          "3) Voice becoming deep or harsh",
+          "4) Voice weakening after prolonged speaking"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१)एक चमचा मध गरम पाण्यात किंवा हर्बल चहात घालून प्यावे. मधात घशाला आराम देणारे गुण असतात आणि तो आवाज बसणे कमी करण्यास मदत करू शकतो;",
+          "२) त्रिफळा चूर्णाच्या काढ्याने गुळण्या कराव्यात;",
+          "३)आलेत सूक्ष्मद्रव्ये आणि सूज कमी करणारे गुण असतात ताज्या आलेच्या तुकड्यांना पाणी उकळून त्याचा चहा तयार करा आणि हळूहळू प्यावा;",
+          "४) खडीसाखर चघळून खावे;",
+          "५)गरम पाण्याच्या वाफेचा श्वास घ्या किंवा उबदार शॉवर घेऊन गळ्याला आराम द्या. ही प्रक्रिया गळ्याच्या कोरड्या भागाला गीलेपण मिळवून आराम देते;",
+          "६) ज्येष्ठमधाची कांडी तोंडात धरावी किंवा चोखून खावी;",
+          "७)एक चमचा सिडर व्हिनेगर एक कप गरम पाण्यात घालून ते प्यावे. हे गळ्याच्या पीएच संतुलनाचे पुनर्रचनेला मदत करते आणि सूज कमी करते;",
+          "८) विराम जा थोडीशी हळद आणि खडीसाखर घालून रात्री झोपताना घ्यावे;",
+          "९) तुळशीची पाने गवती चहा दालचिनी टाकून तो उकळून गाळून प्यावा;",
+          "१०)गरम पाण्यात अर्धा चमचा मीठ घालून त्याने गुळण करा. हे गळ्यातील सूज कमी करण्यास मदत करते आणि म्युकस साफ करते;",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे;"],
+				"en": [
+          "1) Drink a spoonful of honey in warm water or herbal tea. Honey has properties that soothe the throat and can help reduce hoarseness",
+          "2) Make gargles with the decoction of Triphala powder",
+          "3) Garlic has microelements and anti-inflammatory properties. Make a tea by boiling fresh garlic cloves in water and drink it slowly",
+          "4) Suck on a piece of rock candy",
+          "5) Inhale the steam of warm water or take a warm shower to give relief to the throat. This process provides moisture to the dry part of the throat and gives relief",
+          "6) Keep a piece of jaggery in the mouth or suck on it",
+          "7) Mix one spoon of cider vinegar in a cup of warm water and drink it. This helps in rebalancing the pH of the throat and reduces inflammation",
+          "8) Take a little turmeric and rock candy before sleeping at night",
+          "9) Boil tulsi leaves with cinnamon and strain the tea to drink",
+          "10) Mix half a spoon of salt in warm water and gargle. This helps reduce inflammation in the throat and cleans mucus",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor;"]
+			}
+		},
+		{
+			"id": 7,
+			"disorderId": 7,
+			"name": "चेहऱ्यावरील डाग व सुरकुत्या (Spots and wrinkles on the face)",
+			"symptoms": {
+				"mr": [
+          "१) सूर्यप्रकाश परिणामामुळे डाग;",
+          "२) पिंपल्स किंवा मुरुमांच्या ठिकाणी डाग;",
+          "३) स्मॉल ब्लॅक डॉट्स;",
+          "४) पिगमेंटेशन चा बदल;"],
+				"en": [
+          "1) Spots due to sun exposure;",
+          "2) Spots at the site of pimples or moles;",
+          "3) Small black dots;",
+          "4) Change in pigmentation;"]
+			},
+			"remedies": {
+				"mr": [
+          "१) दूध आणि हळदीचे मिश्रण चेहऱ्यावर लावल्याने त्वचा निरोगी आणि चमकदार होते;",
+          "२) मध आणि द्राक्षाचा रस चेहऱ्यावरील सुरकुत्या कमी करण्यास मदत करतात;",
+          "३) बेसन आणि दही चेहऱ्यावर लावल्याने त्वचेला सफाई मिळते आणि डाग कमी होण्यास मदत होते;",
+          "४) आलं आणि मधाचे मिश्रण चेहऱ्यावर लावल्यास सुरकुत्या कमी होण्यास मदत होऊ शकते;",
+          "५) काकडीचे तुकडे चेहऱ्यावर ठेवणे त्वचेची ओलावा राखते आणि डाग कमी करते;",
+          "६) पिकलेल्या पपईचा तुकडा कापून चेहऱ्यावर रगडावा दहा मिनिटांनी चेहरा धुऊन टाकावा थोड्याच दिवसात चेहरा उजाळून चेहऱ्यावरचे डाग सुरकुत्या इत्यादी नाहीशा होतील;",
+          "७) बटाटे उकडून थंड करावे आणि सालासकट वाटून घ्यावे त्यात काकडीचा रस टाकून थोडासा लिंबाचा रस मिसळावा या मिश्रणाने चेहऱ्यावर लेप लावावा तासाभराने धुऊन टाकावा असं काही दिवस केल्यास डाग नाहीसे होतात;",
+          "९) गुलाब पाणी त्वचेसाठी उत्तम आहे नियमित गुलाब पाणी चेहऱ्यावर वापरणे;",
+          "हे उपाय नियमितपणे वापरल्यास त्वचा निरोगी आणि तजेलदार होऊ शकते व सुरकुत्या कमी होऊ शकतात;",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे;"],
+				"en": [
+          "1) Applying a mixture of milk and turmeric on the face makes the skin healthy and radiant;",
+          "2) Honey and grape juice help reduce wrinkles on the face;",
+          "3) Applying a mixture of gram flour and yogurt on the face cleans the skin and helps reduce spots;",
+          "4) Applying a mixture of garlic and honey on the face can help reduce wrinkles;",
+          "5) Keeping cucumber slices on the face maintains skin moisture and reduces spots;",
+          "6) Grate a piece of ripe papaya and rub it on the face for ten minutes, then wash the face. In a few days, the face will glow, and spots, wrinkles, etc., will disappear;",
+          "7) Boil potatoes, cool them, and mash them with their skin. Mix cucumber juice and a little lemon juice into the mash. Apply this mixture on the face, leave it for an hour, and then wash it off. If done for a few days, spots will disappear;",
+          "9) Rose water is excellent for the skin. Use rose water regularly on the face;",
+          "If these remedies are used regularly, the skin can become healthy and radiant, and wrinkles can be reduced;",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor;"]
+			}
+		},
+		{
+			"id": 8,
+			"disorderId": 8,
+			"name": "स्मरणशक्ती कमी होणे (Loss of memory)",
+			"symptoms": {
+				"mr": [
+          "१) विवरण विसरणे;",
+          "२) नवीन माहिती न समजणे;",
+          "३) गोंधळ किंवा भ्रम;",
+          "४) प्रत्येक गोष्ट आठवणी कठीण;"],
+				"en": [
+          "1) Forgetting details;",        
+          "2) Not understanding new information;",       
+          "3) Confusion or delusion;",         
+          "4) Difficulty remembering everything;"]
+			},
+			"remedies": {
+				"mr": [
+          "१) रात्री झोपताना त्रिफळा चूर्ण दहा ग्रॅम पाण्यात घ्यावा;",
+          "२) अश्वगंधा चूर्ण दहा ग्रॅम दुधासोबत दररोज घ्यावे;",
+          "३) फळांमध्ये सेफ अंघोळ अंजीर खजूर यांचे भरपूर प्रमाणात सेवन करा;",
+          "५) रात्री बदाम पाण्यात भिजवून त्याची पेस्ट करून सकाळी दुधासोबत घ्यावा;",
+          "६) मन सतत प्रसन्न ठेवावा;",
+          "७) दररोज वेखंड वा अक्कलकारा उगाळून खावा;",
+          "८) रात्री झोपताना डोक्यावर शक्यतो ब्राह्मी तेल लावावे व तळ पायांना खोबरेल तेल व तिळाचे तेल सोडावे यांनी झोप शांत लागते;",
+          "९) ध्यान किंवा प्राणायाम केल्याने मानसिक शांती मिळते आणि स्मरणशक्ती सुधारते;",
+          "१०) ग्रीन टी किंवा हळदीचे दूध देखील स्मरणशक्तीसाठी उपयुक्त असू शकते;",
+          "११) हळदीचा वापर स्मरणशक्तीसाठी फायदेशीर आहे हळदीचे दूध किंवा हळद मसालेदार पदार्थांमध्ये वापरून ती अधिक प्रभावी बनवता येते आले देखील रक्ताभिसरण सुधारण्यासाठी आणि स्मरणशक्ती वाढवण्यासाठी मदत करू शकते;",
+          "१२) रात्री लवकर झोपावे व सकाळी लवकर उठून अभ्यास करावा;",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे;"],
+				"en": [
+          "1) Take 10 grams of Triphala powder in water at night;",
+          "2) Take 10 grams of Ashwagandha powder with milk daily;",
+          "3) Consume plenty of fruits like Saf, Anjeer, and Khajur;",
+          "5) Soak almonds in water overnight, make a paste, and take it with milk in the morning;",
+          "6) Keep your mind always cheerful;",
+          "7) Eat Vekhand or Akkalakara daily;",
+          "8) Apply Brahmi oil on your head and Kokoberel oil and Til oil on your feet before sleeping for a peaceful sleep;",
+          "9) Meditation or Pranayama provides mental peace and improves memory;",
+          "10) Green tea or turmeric milk can also be beneficial for memory;",
+          "11) The use of turmeric is beneficial for memory. Turmeric milk or turmeric in spicy dishes can be more effective. It can also help improve blood circulation and increase memory;",
+          "12) Sleep early at night and wake up early in the morning to study;",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor;"]
+			}
+		},
+		{
+			"id": 9,
+			"disorderId": 9,
+			"name": "सर्वांगाची आग होणे (Body itching)",
+			"symptoms": {
+				"mr": [
+          "१) सर्वांगाची वा एखाद्या अवयवाच्या आग होणे बेचैन वाटणे थंड पाणी पिण्याची व थंड वातावरणात राहण्याची इच्छा होणे थंड पदार्थ खाण्याची इच्छा होणे काही वेळा दम लागणे इत्यादी सामान्य लक्षणे दिसतात;"
+          ],
+				"en": [
+          "1) Itching all over the body or itching of a particular organ, feeling restless, wanting to drink cold water and live in a cold environment, wanting to eat cold foods, and sometimes feeling suffocated, etc., are common symptoms;"
+				]
+			},
+			"remedies": {
+				"mr": [
+          "१) आपल्या त्वचेसाठी दही चांगले ठरते जळजळ झालेल्या भागावर दही लावा दही त्वचेला शांततेसाठी मदत करते;",
+          "२) तुळशीच्या पानाचे पाणी काढून त्वचेवर लावल्याने जळजळ कमी होऊ शकते;",
+          "३) थंड पाण्याने अंघोळ करणे थंड वातावरणात राहणे",
+          "४) गुळवेल सत्व अडीचशे मिलीग्राम ते पाचशे मिलीग्राम या प्रमाणात दिवसातून दोन-तीन वेळा घ्यावे;",
+          "५) दूध लोणी तूप आवळा कोकम डाळिंब द्राक्ष सर्व प्रकारचे फळे पिकलेली केळी सर्व प्रकारची शीतपेये आईस्क्रीम पावडर खावी;",
+          "६) गुलाब जल जळजळ झालेल्या भागावर लावावे;",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे महत्त्वाचे आहे;"],
+				"en": [
+          "1) Yogurt is good for your skin, apply yogurt to the itchy area, yogurt helps to soothe the skin;",
+          "2) Basil leaf water can reduce itching when applied to the skin;",
+          "3) Bathing with cold water and living in a cold environment;",
+          "4) Take 250 to 500 milligrams of Guduchi extract two to three times a day;",
+          "5) Eat milk, ghee, butter, amla, kokum, drumstick, all types of fruits, ripe bananas, all types of cold drinks, ice cream, and powder;",
+          "6) Apply rose water to the itchy area;",
+          "Note:- These are home remedies. If the problem worsens, it is important to consult a doctor;"
+          ]
+			}
+		},
+		{
+			"id": 10,
+			"disorderId": 10,
+			"name": "संधिवात (Osteoarthritis)",
+			"symptoms": {
+				"mr": [
+          "१) सांध्यामध्ये सूज येणे हालचाल केल्यास दुखणे उठताना बसताना चालताना पायऱ्या चढताना फार त्रास होतो संदेश फार दुखतात कित्येक वेळा हातापर्यंत मुंग्या येतात शरीराच्या हालचाल न करता बसून राहावे असे वाटते;"
+          ],
+				"en": [
+          "1) Swelling in the joints, pain while moving, getting up, sitting, walking, climbing stairs, and sometimes numbness up to the hands, feeling like not moving the body and sitting still;"
+				]
+			},
+			"remedies": {
+				"mr": [
+          "१) उपवास करावा;","२) तुळशीचे पाणी संधिवातावर चांगले फायदेशीर आहे. तुळशीमध्ये शक्तिशाली एंटी-इन्फ्लेमेटरी गुणधर्म असतात. दररोज तुळशीच्या पानांचा रस प्यायल्याने सूज कमी होण्यास मदत होऊ शकते.","३) तुळशीच्या पानाचा रस सांधेदुखीच्या वेदना कमी करण्यासाठी मदत करू शकतात","४) हलके स्ट्रेचिंग योग किंवा जलतरण करण्यामुळे सांधेदुखीचे प्रमाण कमी होऊ शकते","५) निरगुडीचे पाने गरम करून ती संधी स्थानी बांधावीत","६) त्रिफळा चूर्ण एक किंवा दोन ग्रॅम रात्री झोपताना गरम पाण्याबरोबर घ्यावे यात सौच्छा साफ होणे महत्त्वाचे असते","७) हळद आणि मध एकत्र करून सांधेदुखीच्या ठिकाणी लावल्यास वेदना कमी होऊ शकतात","८) आवळ्यात मोठ्या प्रमाणात विटामिन सी आणि अँटिऑक्सिडेंट असतात जे सांधेदुखीवर फायदा करतात आवळ्याचे सेवन किंवा आवळ्याचा रस पिल्यास लाभकारी ठरू शकते","९) आलं आणि लसूण यात असलेल्या सूक्ष्म रसायनामुळे सूज कमी होऊ शकते ते ताजे  सेवन करणे किंवा लसूण तेल लावणे फायदेशीर ठरू शकते","१०) दुखणाऱ्या किंवा सूज आलेल्या सांध्यांना कोणतेही किंवा नारायण व महानारायण तेल लावून हलक्या हाताने चोळावे व नंतर त्यावर गरम पाण्याचे धार सोडून शिकावे वा गरम केलेल्या विटेने शिकावे","वरील उपाय घरगुती आहे परंतु जास्त गंभीर लक्षणे दिसल्यास डॉक्टरचा सल्ला घेणे आवश्यक आहे","सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"
+          ],
+				"en": [
+          "1) Fasting is beneficial;","2) Basil water is very beneficial for osteoarthritis. Basil has powerful anti-inflammatory properties. Drinking basil leaf juice daily can help reduce swelling.","3) Basil leaf juice can help reduce joint pain.","4) Mild stretching exercises or swimming can reduce joint pain.","5) Apply warm neem leaves to the affected joint.","6) Take one or two grams of Triphala powder with warm water at night, ensuring cleanliness is important.","7) Applying turmeric and honey together to the affected joint can reduce pain.","8) Amla contains high amounts of vitamin C and antioxidants that benefit joint pain. Consuming amla or its juice can be beneficial.","9) The micro-nutrients in ginger and garlic can reduce swelling. Consuming them fresh or applying garlic oil can be beneficial.","10) Apply any or Mahanarayan oil to the painful or swollen joints and gently massage, then apply warm water or warm stone.","Note:- These are home remedies. If the symptoms worsen, it is necessary to consult a doctor;","Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor."
+          ]
+				}
+			},
+		
+		{
+			"id": 11,
+			"disorderId": 11,
+			"name": "चक्कर येणे (Fits)",
+			"symptoms": {
+				"mr": [
+          "१) अस्थिरता किंवा डोके फिरणे;",
+          "२) उभे राहताना किंवा चालताना संतुलन गमावणे;",
+          "३) ताण किंवा थकवा जाणवणे;",
+          "४) उचलताना किंवा झोपताना डोक्यात हलकी वेदना जाणवणे;"],
+				"en": [
+          "1) Feeling of instability or dizziness;",
+          "2) Losing balance while standing or walking;",
+          "3) Feeling tired or exhausted;",
+          "4) Feeling light-headed or dizzy when getting up or lying down;"
+				]
+			},
+			"remedies": {
+				"mr": [
+          "१) एक कप पाण्यात लिंबाचा रस आणि चिमूटभर मीठ घालून प्या;",
+          "२) आवळ्याचा रस पावडर किंवा चटणी सेवन केल्याने चक्कर कमी येते;",
+          "३) एक चमचा ताजा आलं आणि एक चमचा मध एकत्र करून दिवसातून एकदा घेणे आरामदार ठरू शकते;",
+          "४) एक चमचा धने आणि एक चमचा जिरे पाण्यातून कोणत्या चा काढा प्या हे गॅस आणि चक्कर कमी करू शकते;",
+          "५) तुळशीच्या पानाचा काढा पिणे पचन सुधारते ऊर्जा मिळून देते त्यामुळे चक्कर येणे कमी होऊ शकते;",
+          "६) ताज नारळाचं पाणी पिणे;",
+          "७) रुग्णाच्या चेहऱ्यावर आणि डोळ्यावर सतत पंधरा मिनिटे थंड पाण्याचे शिंतोडे उडवावे;",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे;"],
+				"en": [
+          "1) Drink a cup of water with lime juice and a pinch of sugar;",
+          "2) Eating lime powder or chutney can reduce dizziness;",
+          "3) Taking a spoonful of fresh ginger and a spoonful of honey together once a day can provide relief;",
+          "4) Drinking a spoonful of coriander and a spoonful of cumin in water can reduce gas and dizziness;",
+          "5) Drinking the juice of basil leaves can improve digestion and provide energy, which can reduce dizziness;",
+          "6) Drink fresh coconut water;",
+          "7) Apply a cold water compress to the patient's face and eyes for fifteen minutes;",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor;"
+				]
+			}
+		},
+		{
+			"id": 12,
+			"disorderId": 12,
+			"name": "केस गळती (Hair fall)",
+			"symptoms": {
+				"mr": [
+          "१) केस गळण्याची वाढती मात्रा;",
+          "२) केस पातळ होणे;",
+          "३) केस तुटणे किंवा भंग होणे;",
+          "४) रुक्ष किंवा शुष्क केस;"
+				],
+				"en": [
+          "1) Increased rate of hair loss;",
+          "2) Hair becoming thin;",
+          "3) Hair breaking or splitting;",
+          "4) Dry or brittle hair;"
+				]
+			},
+			"remedies": {
+				"mr": [
+          "केस वेगवेगळ्या कारणाने गळू शकतात त्यावर घरगुती उपाय केले जाऊ शकतात काही प्रभावी उपाय दिले आहेत;",
+          "१) मेथीचे दाणे पाण्यात भिजत ठेवून त्याची पेस्ट तयार करा आणि ती केसाच्या मुळावर लावा मी ती केस गळती कमी करण्यास मदत करते;",
+          "२) आल आणि मध आळ्याचे जेल किंवा रस आणि मग एकत्र करून केसाच्या मुळावर लावा हे केसांच्या मुळाला पोषण देते व केस गळती थांबते;",
+          "३) आवळ्याचा रसात थोडं दही मिसळून लावणे;",
+          "४) नारळाचे तेल केसाच्या मसाल्यासाठी उत्तम आहे केसाच्या मुलांना तेलाने मसाज करावी;",
+          "५) पालेभाज्या,शेंगदाणे,फायबर भरपूर प्रमाणात असलेले पदार्थ सेवन करणे;",
+          "६) खोबरेल तेल आणि लिंबाचा रस एकत्र मिसळून लावा;",
+          "७) सकाळी आवळा पाण्यात भिजत ठेवून रात्री झोपताना आवळा वाटून केसांना लावावा;",
+          "यातील कोणते उपायाचा अवलंब करून काही आठवड्या परिणाम पाहू शकता परंतु काही फरक नाही पडला तर डॉक्टरचा सल्ला घेणे महत्त्वाचे आहे;",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे;"
+				],
+				"en": [
+          "Hair can fall due to various reasons, and home remedies can be tried to address this issue. Some effective remedies are provided;",
+          "1) Soak fenugreek seeds in water, make a paste, and apply it to the roots of the hair. This helps reduce hair loss;",
+          "2) Mix ginger and honey to create a gel or juice, and apply it to the roots of the hair. This provides nourishment to the hair roots and stops hair loss;",
+          "3) Mix a little curd with amla juice and apply it;",
+          "4) Coconut oil is excellent for hair massage. Massage the hair roots with coconut oil;",
+          "5) Consume foods rich in fiber, such as spinach, almonds, and fiber;",
+          "6) Mix coconut oil and lemon juice and apply it;",
+          "7) Soak amla in water in the morning and apply it to the hair at night;",
+          "By following any of these remedies, you can see results within a few weeks. However, if no difference is seen, it is essential to consult a doctor;",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor;"
+				]
+			}
+		},
+		{
+			"id": 13,
+			"disorderId": 13,
+			"name": "Constipation",
+			"symptoms": {
+				"mr": [
+          "स्वच्छ साफ न होणे त्यामुळे पोट गच्च राहते पोटात गॅस होणे लागणे बेचैन वाटणे डोके दुखणे भूक कमी लागणे"
+        ],
+				"en": [
+          "Not being able to clean properly, leading to a bloated stomach, gas formation, discomfort, headache, and loss of appetite"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) नियमित व्यायाम विशेष पोटाचा व्यायाम करावा;",
+          "२) आठवड्यातून एक दिवस तरी क** उपवास करावा;",
+          "३) त्रिफळा चूर्ण सकाळी एक ग्राम झोपताना एक ग्राम गरम पाण्यासोबत घ्यावे;",
+          "४) सकाळी उपाशीपोटी एक चमचा तूप आणि मग घ्यावे किंवा रात्री घ्यावे;",
+          "५) रात्री झोपताना दुधामध्ये हळद घालून घेणे;",
+          "६) ताज्या फळांचा रस पिणे जसं संत्रा रुपये आम्हा सफरचंद हे रस बसण्यासाठी उत्तम असतात;",
+          "७) आहारात जास्त फायबर असणारे पदार्थ खावेत;",
+          "८) दोन चमचे एरंडेल तेल दोन चमचे तूप गरम पाण्याबरोबर वा दुधाबरोबर घ्यावे;",
+          "९) अभयारिष्ट चार चमचे सकाळ व रात्री जेवणानंतर घ्यावे;",
+          "१०) सकाळी उठल्यावर एक पेला थंड पाणी घ्यावे नंतर एक पेला कोमट पाण्यात एक लिंबू पिळून घ्यावे नंतर सच्चा जावे;",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे;"
+        ],
+				"en": [
+          "१) Regular exercise, especially stomach exercises, should be done;",
+          "२) Fasting for at least one day a week;",
+          "३) Take one gram of Triphala powder in the morning and one gram at night with warm water;",
+          "४) Take one spoon of ghee in the morning on an empty stomach or at night;",
+          "५) Drink turmeric milk at night;",
+          "६) Drink fresh fruit juice, such as orange, grapefruit, and pomegranate, which are excellent for digestion;",
+          "७) Eat foods high in fiber;",
+          "८) Take two spoons of castor oil and two spoons of ghee with warm water or milk;",
+          "९) Take four spoons of Abhayarishta after meals in the morning and evening;",
+          "१०) Drink a glass of cold water in the morning, then a glass of warm water with a squeeze of lemon, and then go for a walk;",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor;"
+        ]
+			}
+		},
+		{
+			"id": 14,
+			"disorderId": 14,
+			"name": "Stye",
+			"symptoms": {
+				"mr": [
+          "१) डोळ्याच्या पापणीवर लालसर गाठी",
+          "२) पापणीची सूज",
+          "३) खाज किंवा जळजळ",
+          "४) अधिक अश्रू येणे",
+          "५) डोळ्यात लालसरपणा"
+        ],
+				"en": [
+          "१) Reddish lumps on the eyelid",
+          "२) Swelling of the eyelid",
+          "३) Itching or burning sensation",
+          "४) Excessive tearing",
+          "५) Redness in the eye"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) एक स्वच्छ टॉवेल किंवा कपड्यात कोमट पाणी भिजवून डोळ्यावर 10-15 मिनिटे ठेवा. हे स्टीच्या लक्षणांमध्ये आराम आणू शकते",
+          "२) मिरे उगाळून त्याचा लेप रांजणवाडीवर करावा ",
+          "३) एक ग्लास कोमट पाण्यात एक चमचे मीठ मिसळा. या मिश्रणाने डोळ्याभोवती हलक्या हाताने मसाज करा यामुळे सूज कमी होण्यास मदत होऊ शकते ",
+          "४) एखादे फडके गरम करून त्या फडक्याने रांजणवाडीला शेक द्यावा. बरेच वेळा या उपायाने ती कमी होते",
+          "५) आलं आणि हळद याचे मिश्रण बनवून ते सुजेच्या ठिकाणी लावल्याने सूज आणि सूजन कमी होऊ शकते. हळदमध्ये जंतुनाशक गुणधर्म असतात",
+          "६) लसूण जाळून तिची मशेरी करून ती लावावी ",
+          "७) डोळ्याच्या आजुबाजूला कायम स्वच्छ ठेवणे आणि पाणी किंवा गंधयुक्त पदार्थांपासून बचाव करणे महत्त्वाचे आहे",
+          "८) बरेच वेळा पू झाल्यावर ती आपोआप फुटते",
+          "न फुटल्यास सुई थोडी गरम करून त्या ठिकाणी लावावी व नंतर हलक्या हाताने दाबून संपूर्ण पू काढून टाकावा ",
+          "९) हिरव्या चहा किंवा ब्लॅक चहा कधी कधी डोळ्यांवर कंप्रेस म्हणून वापरल्याने आराम मिळतो. चहा आपल्या डोळ्यांना शांती आणि आराम देऊ शकतो ",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"],
+				"en": [
+          "१) Apply a warm compress to the eye for 10-15 minutes using a clean towel or cloth. This can provide relief from stye symptoms",
+          "२) Grind cumin seeds and apply the paste on the stye",
+          "३) Mix one teaspoon of salt in a glass of warm water. Gently massage the mixture around the eyes, which can help reduce swelling",
+          "४) Warm a cloth and apply it to the stye. This remedy often reduces the stye",
+          "५) Mix turmeric and gram flour to apply on the swelling, which can reduce swelling and inflammation. Turmeric has antibacterial properties",
+          "६) Grind garlic and apply the paste",
+          "७) Keep the area around the eyes clean and avoid water or fragrant substances",
+          "८) Often, the stye bursts on its own",
+          "If it doesn't burst, apply a slightly warm needle to the area and then gently press to remove the entire pus",
+          "९) Green tea or black tea can sometimes be used as a compress to provide relief. Tea can bring peace and relief to your eyes",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"]
+				
+			}
+		},
+		{
+			"id": 15,
+			"disorderId": 15,
+			"name": "जंत - कृमी (Worms)",
+			"symptoms": {
+				"mr": [
+          "१) सुखी किंवा गॅस होण",
+          "२) डायरिया किंवा अतिसार होणे",
+          "३) नियमित भूक लागणे",
+          "४) खूप खाज येणे",
+          "५) आकस्मिक वजन कमी होणे"
+        ],
+				"en": [
+          "१) Feeling bloated or gassy",
+          "२) Diarrhea or loose stools",
+          "३) Regular hunger pangs",
+          "४) Excessive itching",
+          "५) Sudden weight loss"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) ज्या कारणांनी जंत होण्याची शक्यता आहे ती सर्व कारणे दूर करावीत",
+          "२) वेलची खाल्ल्याने पचन प्रणाली सुधारते आणि कृमी नष्ट होऊ शकतात. १-२ वेलची ताज्या पाण्यात उकळून ते पाणी प्यायला दिले जाऊ शकते",
+          "३) नागरमोथा, माषपर्णी, त्रिफळा, देवदारू यांच्या काढ्यात १ ग्रॅम पिंपळी चूर्ण व १ ग्रॅम विडंग चूर्ण घालून तो सकाळी अर्धा कप व रात्रौ अर्धा कप घ्यावा ",
+          "४) आलं पाचनासाठी चांगले आहे आणि कृमींना नष्ट करण्यात मदत करते. आलं ताजं किव्हा त्याचा रस वापरला जाऊ शकतो ",
+          "५) गूळ खाऊन १५ ते २० मिनिटे आराम करावा व नंतर कम्पील्लक चूर्ण २५० मि. ग्रॅ. ५०० मि. ग्रॅ. या प्रमाणात विडंग चूर्ण १ ग्रॅम वा दोन्ही एकत्र घेऊन ते गरम पाण्याबरोबर घ्यावे. कृ मीमध्ये याचा चांगला उपयोग होतो",
+          "६) लसूण कृमी नष्ट करण्यासाठी प्रसिद्ध आहे. ताजे लसूण १-२ पाकळ्या बारीक करून दिवसातून एक किंवा दोन वेळा घेतल्याने फायदा होतो",
+          "७) कांद्याचा रस २२ वा ३ ३ चमचे प्यावा",
+          "८) आंब्याच्या वेलवटांचा वापर करणे खूप प्रभावी ठरते. १ चमचा वेलवट पावडर चोखून प्यायल्याने कृमी नष्ट होण्यास मदत होऊ शकते",
+          "९) संजीवनी वटी : (१२५ मि. ग्रॅ. ची १ गोळी) २ - २ वा ३ ३ गोळ्या दिवसातून २ - ३ वेळा गरम पाणी वा ताकाबरोबर घ्यावा",
+          "१०) काळी मिरी पोटात इन्फेक्शन आणि कृमींचा नाश करण्यास मदत करते. एक ते दोन मिरीचे दाणे चावून सेवन करा ",
+          "११) कम्पिल्लक चूर्ण: २५० मि. ग्रॅ. ते ५०० मि. ग्रॅ. या प्रमाणात दिवसातून २ - ३ वेळा गरम पाण्याबरोबर घ्यावे",
+          "१२) पपईच्या बिया पोटाच्या कृमींना नष्ट करण्यास प्रभावी आहेत. पपईच्या बिया वाळवून त्यांचा चूर्ण तयार करावा आणि ते पाणी किंवा लहान मुलांसाठी थोड्या साखरेसोबत दिले जाऊ शकतात",
+          "१३) विडंग चूर्ण"
+        ],
+				"en": [
+          "१) Eliminate all the causes that can lead to worms",
+          "२) Cardamom helps in digestion and can destroy worms. 1-2 cardamoms can be boiled in water and given to drink",
+          "३) A decoction of Nagarmotha, Mashaparni, Triphala, and Devdaru with 1 gram of Pimpli powder and 1 gram of Vidang powder should be taken half a cup in the morning and half a cup at night",
+          "४) Garlic is good for digestion and helps in destroying worms. Garlic can be used raw or its juice can be consumed",
+          "५) Eating jaggery and resting for 15-20 minutes, then taking Kampillaka churna 250 mg to 500 mg with Vidang churna 1 gram or both together with warm water is beneficial in worm infestation",
+          "६) Garlic is famous for destroying worms. Taking 1-2 cloves of garlic finely chopped once or twice a day is beneficial",
+          "७) Drinking 22-33 teaspoons of onion juice",
+          "८) Using mango seeds is very effective. Drinking 1 teaspoon of mango seed powder with water can help destroy worms",
+          "९) Sanjivani Vati: (125 mg of 1 tablet) 2-3 tablets should be taken 2-3 times a day with warm water or buttermilk",
+          "१०) Black pepper helps in destroying worms and infections in the stomach. Eating 1-2 peppercorns",
+          "११) Kampillaka churna: 250 mg to 500 mg should be taken 2-3 times a day with warm water",
+          "१२) Papaya seeds are effective in destroying stomach worms. Papaya seeds can be dried and powdered, and given with water or a little sugar for children",
+          "१३) Vidang churna"
+        ]
+			}
+		},
+		{
+			"id": 16,
+			"disorderId": 16,
+			"name": "उलटी होणे (Vomiting)",
+			"symptoms": {
+				"mr": [
+          "१) मळमळ होणे",
+          "२) पोटात वेदना होणे",
+          "३) अस्वस्थता आणि थकवा जाणवणे",
+          "४) आकस्मिक तोंडातील चव बदलणे"
+        ],
+				"en": [
+          "१) Nausea",
+          "२) Stomach pain",
+          "३) Feeling unwell and tired",
+          "४) Sudden change in taste in the mouth"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) आलं उलट्या कमी करण्यास मदत करू शकते. आलं चवीला जरा तिखट असले तरी, त्याचा रस पिऊन उलट्या थांबवता येतात. १ चमचा आलं व १ चमचा मध एकत्र करून सेवन करा",
+          "२) उपवास करावा",
+          "३) तुळशीच्या पानांचा काढा उलट्या कमी करण्यासाठी फायद्याचा ठरतो. तुळशीची ५-६ पाने उकळून त्याचा काढा प्यावा",
+          "४) सुगंधीत फुलांचा व तेलाचा वास घ्यावा",
+          "५) लिंबाच्या रसामध्ये थोडं मीठ आणि पाणी मिसळून प्यायल्याने उलट्या कमी होऊ शकतात",
+          "६) अर्धा चमचा तूप घेऊन ते गरम करावे व त्यामध्ये थोडेसे सैंधव मीठ घालून प्यावे",
+          "७) उसाचा रस प्यावा",
+          "८) उलट्या झाल्यानंतर शरीरात पाणी कमी होऊ शकते. थोडे थोडे पाणी प्यायल्याने हायड्रेशन राखता येते आणि उलट्या थांबू शकतात",
+          "९) आवळ्याचा वा शतावरीचा रस व सरबत प्यावा",
+          "१०) धणे पाण्यात उकळून तो काढा प्यायल्याने पचनक्रिया सुधारते आणि उलट्या कमी होतात",
+          "११) २) खडीसाखर तोंडात धरावी",
+          "१२) नारळपाणी किंवा ताज्या फळांचा रस शरीराची ऊर्जा आणि हायड्रेशन वाढवतो, ज्यामुळे उलट्या कमी होतात",
+          "१३) चंदन, जीरे यांचे अर्धा-अर्धा चमचा चूर्ण एकत्र करून ते मध व साखरेतून चाटवावे ",
+          "१४) अजवायन उकळून त्याचे पाणी प्यायल्याने पचनशक्ती वाढवते आणि उलट्या कमी होतात",
+          "१५) कवठाची बर्फी वारंवार खावी",
+          "१६) लिंबू व साखर पाण्यात घालून त्याचे सरबत करून प्यावे",
+          "( जर उलट्या चालूच राहिल्या किंवा ती अधिक गंभीर दिसल्या, तर डॉक्टरांचा सल्ला घेणं महत्त्वाचं आहे )",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टोरांचा सल्ला घेणे आवश्यक आहे"],
+				"en": [
+          "१) Drink a mixture of 1 tablespoon of aloe vera and 1 tablespoon of honey to reduce vomiting. Aloe vera juice can be bitter, but drinking it with honey can help reduce vomiting",
+          "२) Fast",
+          "३) Drinking a decoction of basil leaves can help reduce vomiting. Boil 5-6 basil leaves and drink the decoction",
+          "४) Inhale the fragrance of flowers and oil",
+          "५) Drinking a mixture of a little sugar and water with lime juice can help reduce vomiting",
+          "६) Take half a teaspoon of ghee, heat it, and add a little sugar. Drink this mixture",
+          "७) Drink buttermilk",
+          "८) After vomiting, the body can become dehydrated. Drinking a little water can help rehydrate and reduce vomiting",
+          "९) Drink aloe vera juice or syrup",
+          "१०) Boil coriander seeds in water and drink the decoction. This helps improve digestion and reduce vomiting",
+          "११) २) Hold a piece of jaggery in your mouth",
+          "१२) Drinking coconut water or fresh fruit juice can increase the body's energy and hydration, which can reduce vomiting",
+          "१३) Mix half a teaspoon of sandalwood and cumin powder and eat it with honey",
+          "१४) Inhaling the aroma of ajwain seeds can improve digestion and reduce vomiting",
+          "१५) Eat a piece of jaggery",
+          "१६) Mix lime juice and sugar in water and drink the syrup",
+          "( If vomiting continues or becomes more severe, it is important to seek medical advice )",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"]
+			}
+		},
+		{
+			"id": 17,
+			"disorderId": 17,
+			"name": "पाय फुटणे (Wrinkling of legs)",
+			"symptoms": {
+				"mr": [
+        "१) टाचेला भेगा पडणे",
+        "२) टाच उलने",
+        "३) पायाची टाच लालसर होणे"],
+				"en": [
+          "१) Cracks on the heels",
+          "२) Cracks on the feet",
+          "३) Redness on the feet"]
+			},
+			"remedies": {
+				"mr": [
+          "१)पाय गरम पाण्याने चांगले धुवावेत",
+          "२) पायाला खोबरेल तेल चोळावे",
+          "३) थंडीच्या दिवसात जाड पाय मोजे वापरावेत",
+          "४) गुलाब जल आणि केशर एकत्र करून पायावर लावावे",
+          "५) पाद दारी मलम लावावा",
+          "६) चाळीस ग्रॅम तीळाच्या तेलात सहा ग्रॅम मेन टाकून गरम करावे दहा ग्रॅम डाळ वाटून टाकावी व हे मिश्रण लावावे",
+          "७) कोकम तेल व तिळाचे तेल एकत्र गरम करून लावावे",
+          "८) रोपण तेल त्याजागी लावावे",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"],
+				"en": [
+          "१) Wash your feet well with warm water",
+          "२) Apply coconut oil to your feet",
+          "३) Use thick socks during cold days",
+          "४) Apply a mixture of rose water and saffron to your feet",
+          "५) Apply foot cream",
+          "६) Mix 40 grams of sesame oil with 6 grams of menthol, heat it, add 10 grams of turmeric powder, and apply the mixture",
+          "७) Mix kokum oil and sesame oil, heat it, and apply it",
+          "८) Apply castor oil to the affected area",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"]
+				}
+			},
+		
+		{
+			"id": 18,
+			"disorderId": 18,
+			"name": "ताप (Fever/Pyrexia)",
+			"symptoms": {
+				"mr": [
+          "१) थंडी वाजणे",
+          "२) अंग दुखणे",
+          "३) कमजोरी व थकवा येणे",
+          "४) उष्णतेची भावना",
+          "५) डोकेदुखी"
+        ],
+				"en": [
+          "१) Feeling cold",
+          "२) Body ache",
+          "३) Weakness and fatigue",
+          "४) Feeling of heat",
+          "५) Headache"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) बेल पाने, तुलसी, व चिनार यांचा एकत्र गरम करून दोन-तीन वेळा दिवसात पाण्यात घ्यावा",
+          "२) चार पाच तुलसी पाने, चार पाच पुडीना पाने, थोडे गिंजर, तीन-चार ब्लॅक पेपर्स, व गुड यांचा दोन चमचे पाण्यात गरम करून दोन-तीन वेळा दिवसात प्यावे",
+          "३) अंगूर व गुड यांचा एकत्र गरम करून दोन-तीन वेळा दिवसात पाण्यात घ्यावा",
+          "४) गरम पाण्यात टोमटो व गुड यांचा एकत्र गरम करून दोन-तीन वेळा दिवसात प्यावे",
+          "५) हल्दी व गुड यांचा एकत्र गरम करून दोन-तीन वेळा दिवसात पाण्यात घ्यावा",
+          "६) गुड यांचा एक चमचा गरम पाण्यात घ्यावा",
+          "७) एक चमचा सुदर्शन चुर्ना दोन-तीन वेळा दिवसात प्यावे",
+          "८) टोमटो व गुड यांचा एकत्र गरम करून दोन-तीन वेळा दिवसात पाण्यात घ्यावा",
+          "९) प्रचुर पाणी पिण्यावर शरीराची उष्णता कमी होऊ शकते",
+          "१०) बेल, गुड, सुन्त यांचा एकत्र गरम करून दोन-तीन वेळा दिवसात दोन चमचे पाण्यात घ्यावा",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"
+        ],
+        "en": [
+          "१) Make a decoction of bael leaves, tulsi, and cinnamon and drink it two-three times a day",
+          "२) Make a tea by boiling four-five tulsi leaves, four-five pudina leaves, a little ginger, three-four black peppers, and gud in two cups of water. Strain and drink half a cup two-three times a day",
+          "३) Amla decoction helps in reducing fever",
+          "४) Drinking turmeric mixed with warm milk helps in reducing body heat",
+          "५) Drinking lemon juice with honey can provide relief from fever",
+          "६) Take 250 grams of guduchi satva three-four times a day",
+          "७) Take one gram of sudarshan churna three-four times a day",
+          "८) Drinking a decoction of tulsi and ginger with honey can reduce fever",
+          "९) Drinking plenty of water helps in removing body heat",
+          "१०) Make a decoction of equal parts of pippali, guduchi, and sunth and drink half a cup two-three times a day",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"        ]
+				
+			}
+		},
+		{
+			"id": 19,
+			"disorderId": 19,
+			"name": "जठराची सूज (Gastritis)",
+			"symptoms": {
+				"mr": [
+          "१) पोट दुखणे",
+          "२) पचना संबंधी समस्या",
+          "३) मळमळ उलटी होणे",
+          "४) पोटात जळजळ होणे",
+          "५) पाणी पिण्याची इच्छा कमी होणे"
+        ],
+				"en": [
+          "१) Stomach pain",
+          "२) Digestive problems",
+          "३) Nausea and vomiting",
+          "४) Burning sensation in the stomach",
+          "५) Decreased desire to drink water"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) आठवड्यातून एक दिवस तरी कडक उपवास करावा",
+          "२) निरगुडी ची पाने गरम करून ती सांध्यावर बांधावीत",
+          "३) हळद आणि आलं एकत्र करून त्यांची पेस्ट तयार करा आणि त्या बे बेस्ट चा वापर प्रभावी जागी करा",
+          "४) एरंड मुलाच्या काढ्याने सांधे सेकावेत",
+          "५) त्रिफळा चूर्ण दोन दोन ग्रॅम रात्री झोपताना गरम पाण्याबरोबर घ्यावे",
+          "६) गरम पाण्याच्या स्नानाने शरीरातील वेदना कमी होऊ शकतात",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"
+        ],
+				"en": [
+          "१) Fast for at least one day a week",
+          "२) Warm and apply Nirgudi leaves to the joints",
+          "३) Mix turmeric and ginger to make a paste and use it effectively",
+          "४) Use the decoction of Erand root to steam the joints",
+          "५) Take two grams of Triphala powder at night with warm water",
+          "६) Bathing with warm water can reduce body pain",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"
+        ]
+			}
+		},
+		{
+			"id": 20,
+			"disorderId": 20,
+			"name": "डोके दुखी (Headache)",
+			"symptoms": {
+				"mr": [
+          "१) तणावजन्य डोकेदुखी",
+          "२) मायग्रेन",
+          "३) ताण आणि त्रास",
+          "४) अस्वस्थता जाणवणे",
+          "५) मळमळ किंवा उलटी जाणवणे"
+        ],
+				"en": [
+          "१) Stress-induced headache",
+          "२) Migraine",
+          "३) Tension and discomfort",
+          "४) Feeling of unease",
+          "५) Nausea or vomiting"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) झोपताना डोक्याला व तळपायाला तेल चोळावे",
+          "२) उडदा पासून बनवलेले पदार्थ खावेत",
+          "३) एक दोन चमचे तूप एकटे वा जेवणामध्ये खावे व गरम पाणी प्यावे",
+          "४) डोके कपाळाचा भाग शेकावा",
+          "५) डोक्याला चंदन व कापूर याचा लेप लावावा",
+          "६) चिंचेची पाने व तर वडाचे बी एकत्र कुठून त्याचा लेप डोक्याला लावावया ",
+          "७) लिंबाच्या पानाचा रस नाक पुड्यात सोडल्याने डोकेदुखी थांबते",
+          "८) चंदन पाण्यात उगाळून कपाळावर लेप करावा",
+          "९) दोन चमचे आवळ्याच्या चूर्ण एक चमचा शुद्ध तूप मिसळून खावे व वरून एक पेला कोमट दूध प्यावे",
+          "१०) सुंठ व वेखंड उगाळून त्याचा लेप कपाळाला करावा",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"
+        ],
+				"en": [
+          "१) Apply oil to the head and soles of the feet before sleeping",
+          "२) Eat foods made from urad dal",
+          "३) Eat one or two spoons of ghee alone or with food and drink warm water",
+          "४) Massage the forehead",
+          "५) Apply a paste of sandalwood and camphor on the head",
+          "६) Apply a paste of tamarind leaves and turmeric seeds on the head",
+          "७) The juice of lemon leaves stops headaches when dripped into the nostrils",
+          "८) Apply a paste of sandalwood dissolved in water on the forehead",
+          "९) Mix two spoons of amla powder with one spoon of pure ghee and eat it, and drink a cup of warm milk over it",
+          "१०) Apply a paste of ginger and vekhand dissolved in water on the forehead",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"
+        ]
+			}
+		},
+		{
+			"id": 21,
+			"disorderId": 21,
+			"name": "गांधी उठणे (Urticaria)",
+			"symptoms": {
+				"mr": [
+          "१) खाज सुटणे",
+          "२) लालसर फोड येणे",
+          "३) त्वचेचा रंग बदलणे",
+          "४) ज्या विकारात त्वचेला खाज येते खाजवल्यावर अंगावर लालसर रंगाचे फोटो उठतात व जो विकार सामान्यतः थंडीच्या दिवसात जास्त प्रमाणात होता ना आढळतो त्या विकाराला गांधी उठणे आयुर्वेदानुसार शीतपित्त व आधुनिक वैद्यकानुसार urticaria असे म्हणतात"
+        ],
+				"en": [
+          "१) Itching",
+          "२) Reddish blisters",
+          "३) Skin color change",
+          "४) The disease in which the skin itches and red spots appear on the body after scratching, which is commonly found in cold weather, is called urticaria in modern medicine and shitala in Ayurveda"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) त्रिफळा चूर्ण एक दोन ग्रॅम रात्री झोपताना घ्यावे",
+          "२) मोहरीचे तेल लावावे",
+          "३) पाच काळी मिरीची पावडर दोन चमचे तुपातून सकाळ व रात्री घ्यावी चांगला फायदा होतो",
+          "४) गांधी उठल्यावर सर्वांगाला आमसुलाचे पाणी लावावे",
+          "५) अवि पित्तकर चूर्ण एक दोन ग्रॅम या प्रमाणात रात्री झोपताना गरम दूध किंवा गरम पाण्याबरोबर घ्यावे",
+          "६) आवळ काठी चूर्ण एकेक ग्रॅम दिवसातून दोन-तीन वेळा घ्यावे",
+          "७) गुलकंद (प्रवाळ युक्त) एक दोन चमचे दिवसातून तीन-चार वेळा घ्यावे सर्वांगाची आग होत असल्यास विशेष उपयोगी(",
+          "८) कडुलिंबाच्या पानांना पाण्यात उकळून त्या पाण्याने स्नान केल्यास खाजेमध्ये आराम येतो",
+          "९) अवि पित्तकर चूर्ण एक दोन ग्रॅम या प्रमाणात रात्री झोपताना गरम दूध किंवा गरम पाण्याबरोबर घ्यावे"
+        ],
+				"en": [
+          "१) Take 1-2 grams of Triphala powder at night before sleeping",
+          "२) Apply Mohari oil",
+          "३) Take 2 spoons of black pepper powder in ghee in the morning and evening for good benefits",
+          "४) Apply Amsul water all over the body after urticaria",
+          "५) Take 1-2 grams of Avipittakar Churna at night before sleeping with warm milk or warm water",
+          "६) Take 1 gram of Amla Katki Churna two to three times a day",
+          "७) Take 1-2 spoons of Gulakand (with coral) three to four times a day, especially useful if there is a burning sensation all over the body",
+          "८) Bathing with the water in which Kadulimb leaves are boiled provides relief from itching",
+          "९) Take 1-2 grams of Avipittakar Churna at night before sleeping with warm milk or warm water"
+        ]
+			}
+		},
+		{
+			"id": 22,
+			"disorderId": 22,
+			"name": "उचकी (Hiccups)",
+			"symptoms": {
+				"mr": [
+          "१) घशामध्ये अचानक धक्काच किंवा हिक आवाज येणे",
+          "२) सतत हंकी होणे"
+        ],
+				"en": [
+          "१) Sudden hiccup or hiccup sound in the throat",
+          "२) Continuous hiccup"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) पोट साफ ठेवणे",
+          "२) एक चमचा साखर तोंडात ठेवा आणि ती सगळा मऊ आणि चिकट असते ज्यामुळे तोंडातील स्नायूचा ताण कमी होतो आणि उचकी थांबवू शकते",
+          "३) पाच दहा सेकंद श्वास रोखून धरून नंतर हळूहळू श्वास सोडण्याचा प्रयत्न करा यामुळे ताण कमी होतो आणि उचकी थांबू शकते",
+          "५) एक ग्लास गरम पाण्यात चिमूटभर मीठ टाकून प्या हे पचन केलेला मदत करते आणि उचकी थांबवू शकते",
+          "६) एका श्वासात पाणी पिल्याने  ( श्वसन मास पेशी )शांत होतो आणि उचकी थांबते काही लोकसाठी एकाच वेळेस पाच सहा घोट पाणी पिणे प्रभावी ठरते",
+          "७) काळी मिरी चूर्ण पाचशे मी ग्रॅम ते एक ग्रॅम या प्रमाणात दिवसातून दोन-तीन वेळा विशेषता जेवणानंतर गरम पाण्याबरोबर घ्यावी",
+          "८) शंख वटी दोन दोन गोळ्या गरम पाण्याबरोबर दिवसातून दोन-तीन वेळा खाणे",
+          "९) बेहर्डा चूर्ण एकेक ग्रॅम या प्रमाणात दिवसातून दोन-तीन वेळा गरम पाण्याबरोबर",
+          "१०) पिपली चूर्ण पाचशे मी ग्रॅम ते एक ग्रॅम प्रमाणात दोन-तीन वेळा घ्यावे",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"],
+				"en": [
+          "१) Keep the stomach clean",
+          "२) Hold a spoonful of sugar in your mouth and it becomes soft and sticky, which reduces the tension of the mouth muscles and can stop hiccups",
+          "३) Try holding your breath for five to ten seconds and then slowly exhaling, which reduces tension and can stop hiccups",
+          "५) Drinking a glass of warm water with a pinch of salt helps digestion and can stop hiccups",
+          "६) Drinking water in one breath (relaxing the respiratory muscles) calms down and stops hiccups, and for some people, drinking five to six sips of water at once is effective",
+          "७) Take black pepper powder, 500 mg to 1 gram, two to three times a day, especially after meals, with warm water",
+          "८) Take Shankhavati, two tablets, two to three times a day with warm water",
+          "९) Take Behrda Churna, one gram, two to three times a day with warm water",
+          "१०) Take Pipli Churna, 500 mg to 1 gram, two to three times a day",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"]
+				
+			}
+		},
+		{
+			"id": 23,
+			"disorderId": 23,
+			"name": "लघविला त्रास होणे (Painful Micturation)",
+			"symptoms": {
+				"mr": [
+          "१) लघवी करताना वेदना होणे",
+          "२) वारंवार लघवीला जाण्याची इच्छा होणे",
+          "३) खास करून पोटाच्या खालच्या भागात वेदना होणे",
+          "४) लघवीत रक्त येणे"
+        ],
+				"en": [
+          "१) Pain while urinating",
+          "२) Frequent urge to urinate",
+          "३) Specifically, pain in the lower abdomen",
+          "४) Blood in the urine"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) वारंवार पाणी प्यावे विशेषता गरम प्यावे",
+          "२) दोन-तीन चमचे तूप खाऊन गरम पाणी प्यावे",
+          "३)जुना गूळ व एक चमचा तूप गरम दुधात घालून ते प्यावे",
+          "४) एरंड गुळ गोखरू यांचा काढा घ्या",
+          "५)  एक ग्लास पाण्यामध्ये एक चमचा तीळ चिमूटभर हळद एक चमचा गुळ यांचा मिश्रण करून अर्धा ग्लास काढा करा व अनुशापोटी घ्या",
+          "६) ओवा एक चमचा तीळ एक चमचा काळे मीठ चवीपुरते भाजून घेणे रोज रात्री झोपताना चावून चावून खाणे",
+          "७) लिंबाचा रस मधात मिसळून प्याल्याने मूत्रमार्गाचा संसर्ग कमी होऊ शकतो",
+          "८) एक चमचा हळद एक ग्लास कोमट पाण्यात घालून पिल्याने मूत्रमार्गाची स्वच्छता होते आणि सूज कमी होते",
+          "९) तुळशीच्या पानाचा रस पिल्याने मूत्र मार्गाची स्वच्छता होते",
+          "१०) तुरीच्या पानाचा रस तीन दिवस घ्या",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"],
+				"en": [
+          "१) Drink water frequently, especially warm water",
+          "२) Eat two-three spoons of ghee and drink warm water",
+          "३) Mix old jaggery and one spoon of ghee in warm milk and drink it",
+          "४) Take the decoction of Erand, Guduchi, and Gokhru",
+          "५) Mix one spoon of sesame seeds, a pinch of turmeric, and one spoon of jaggery in a glass of water, make half a glass of decoction, and take it after meals",
+          "६) Roast one spoon of sesame seeds, one spoon of black salt to taste, and eat it every night before sleeping",
+          "७) Mixing lemon juice with honey can reduce the infection of the urinary tract",
+          "८) Drinking one spoon of turmeric in a glass of warm water cleans the urinary tract and reduces swelling",
+          "९) Drinking the juice of basil leaves cleans the urinary tract",
+          "१०) Take the juice of turmeric leaves for three days",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"
+        ]
+			}
+		},
+		{
+			"id": 24,
+			"disorderId": 24,
+			"name": "मुतखडा (Kidney Stone)",
+			"symptoms": {
+				"mr": [
+          "१) लघवी करताना वेदना होणे",
+          "२) पोटात सूज येणे",
+          "३) तीव्र पोटदुखी",
+          "४) वारंवार लघवीला जाण्याची इच्छा होणे"
+        ],
+				"en": [
+          "१) Pain while urinating",
+          "२) Swelling in the abdomen",
+          "३) Severe abdominal pain",
+          "४) Frequent urge to urinate"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) वारंवार पाणी प्यावे",
+          "२) त्रिफळा चूर्ण एक दोन ग्रॅम रात्री झोपताना गरम पाण्याबरोबर घ्यावे सौचा साफ होऊन मुतखडा पडण्यास मदत होते",
+          "३) तुळशीच्या पानाचा काढा तयार करून तो गरम पाणी व लिंबू आणि मध घालून प्यावा",
+          "४) गोखरू चूर्ण एक एक ग्रॅम या प्रमाणात दिवसातून दोन वेळा घ्यावे",
+          "५) कुळीथ युश एक एक कप सकाळी व रात्री घ्यावे कुळीथ (हुलगे) हे एक मुतखड्यावरील उत्कृष्ट औषध आहे कुळीथाने मुतखड्याची झीज होते व तो लहान लहान होत जातो",
+          "६) दोन ग्रॅम कडूनिंबाच्या पाल्याची राख पाण्याबरोबर नियमित घेतल्यास मुतखडा विरघळवून जातो",
+          "७) पाषाणभेद एक एक ग्रॅम प्रमाणात दिवसातून तीन वेळा गरम पाण्याबरोबर घ्यावे",
+          "८) ताक भरपूर प्यावे",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"
+        ],
+				"en": [
+          "१) Drink water frequently",
+          "२) Take 1-2 grams of Triphala powder at night with warm water to help cleanse the bowels and pass kidney stones",
+          "३) Prepare a decoction of basil leaves and drink it with warm water, lemon, and honey",
+          "४) Take 1 gram of Gokhru powder twice a day",
+          "५) Take 1 cup of Kulith (Horse Gram) in the morning and evening. Kulith is an excellent medicine for kidney stones, and it helps to break down and reduce the size of the stones",
+          "६) Take 2 grams of Kadunimb powder regularly with water to dissolve kidney stones",
+          "७) Take 1 gram of Pashanabheda powder three times a day with warm water",
+          "८) Drink plenty of buttermilk",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"
+        ]
+			}
+		},
+		{
+			"id": 25,
+			"disorderId": 25,
+			"name": "मुरगळणे (Wriggling)",
+			"symptoms": {
+				"mr": [
+          "१) अनैच्छिक स्नायूंची हालचाल",
+          "२) स्नायू दुखणे",
+          "३) असामान्य संवेदनांचा अनुभव",
+          "४) स्नायू मध्ये  कमकुवतपणाचा अनुभव"
+        ],
+				"en": [
+          "१) Involuntary muscle movement",
+          "२) Muscle pain",
+          "३) Abnormal sensation",
+          "४) Feeling of weakness in muscles"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१)गरम पाण्याने शिकावे किंवा गरम वाळूने शेकावे",
+          "२) एक मोठा टब किंवा भांड्यात गरम पाणी घेऊन त्यात मीठ टाकून त्या पाण्यात पाय किंवा हात बुडवून ठेवावेत हे रक्ताभिसरण सुधारते आणि मुरगळल्यावर आराम मिळतो",
+          "३) आलं आणि हिंग मिश्रण करून मुरगळलेल्या ठिकाणी लावल्यास आराम मिळतो हिंग आणि आलं तान कमी करतात",
+          "४) तांदळाचे पीठ आणि साखर एकत्र करून त्या मिश्रणात थोडे तेल घालून मुरगळलेल्या भागावर मसाज करा",
+          "५) हळद व तुरटी पाण्यामध्ये उगाळून लेप लावावा",
+          "६) त्रिफळा गुगल तीन गोळ्या दिवसातून तीन वेळा घ्याव्यात",
+          "७) आंबेहळद व चंदन यांचा लेप त्या जागेवर लावावा",
+          "८) दशांग लेप गरम पाण्यात घेऊन तो घट्ट करावा व त्याचा लेप फडक्याने बांधावा",
+          "९) मोहरी तेल किंवा ऑलिव्ह तेल गरम करून मुरगळलेल्या ठिकाणी हल्क्या हाताने मसाज करा हे मांसपेशीतील ताण सोडवते आणि आराम देते",
+          "१०) तीळ व खोबरे एकत्र कुटून तेलावर परतून त्यात थोडी हळद घालून त्या अवयवावर लेप लावावा"
+        ],
+				"en": [
+          "१) Apply warm water or apply warm compress",
+          "२) Take a large tablet or take a large pot of water and add sugar to it. Put your feet or hands in the water and keep them there. This improves blood circulation and provides relief from wriggling",
+          "३) If you apply a mixture of ginger and asafoetida to the affected area, you will get relief. Ginger and asafoetida reduce the sensation of wriggling",
+          "४) Mix the back of the palm and sugar together, add a little oil to the mixture, and massage the affected area",
+          "५) Apply a paste of turmeric and sesame in water",
+          "६) Take three pills of trifala gugul three times a day",
+          "७) Apply a paste of amla and sandalwood on the affected area",
+          "८) Apply a paste of ten leeches in warm water and tie it to the affected area",
+          "९) Massage the affected area lightly with warm fenugreek oil or olive oil. This relieves muscle tension and provides relief",
+          "१०) Grind sesame and coconut together and apply the paste on the affected area"
+        ]
+			}
+		},
+		{
+			"id": 26,
+			"disorderId": 26,
+			"name": "पोट दुखी (Stomach pain)",
+			"symptoms": {
+				"mr": [
+          "१) गॅस व बद्धकोष्ठता जाणवणे",
+          "२)मळमळ होणे",
+          "३) तोंडातून गंध येणे",
+          "४) भुकेची कमतरता जाणवणे"
+        ],
+				"en": [
+          "१) Feeling of gas and constipation",
+          "२) Nausea",
+          "३) Bad breath",
+          "४) Lack of appetite"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) गरम पाणी प्यावे आराम मिळतो",
+          "२) दुधात खडीसाखर व अर्धा चमचा सुंठ पावडर घालून दूध प्यावे",
+          "३) तुळशीची पाने सगळा किंवा उकळून प्या",
+          "४) हळदीचा चहा किंवा मसाला चहा पोटदुखी कमी करण्यास मदत ",
+          "करू शकतो",
+          "५) शंखवटीच्या दोन दोन गोळ्या दिवसातून तीन-चार वेळा गरम ",
+          "पाण्याबरोबर घ्या",
+          "६) आरोग्यवर्धिनी गोळ्या दोन दोन दिवसातून तीन चार वेळा घ्या",
+          "७) आलं आणि मध एकत्र करून सेवन केल्यास पोट दुखी मध्ये आराम मिळू शकतो",
+          "८) ताकात सैंधव मीठ घालून वारंवार ताक प्यावे",
+          "९) ताजे नारळाचे पाणी पोटाच्या त्रासावर एक प्रभावी उपाय आहे",
+          "१०) जिरे पाणी पिणे पचनक्रिया सुधारते आणि पोटाच्या दुखण्यापासून आराम मिळतो",
+          "११) पुदिन्याचे पाणी पिणे किंवा पुदिन्याचे पाने चघळल्याने पोटातील गॅस कमी होऊ शकतो आणि पचन करू शकते",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"],
+			
+				"en": [ "१) Drink warm water for relief",
+        "२) Mix sugar and half a spoon of ginger powder in milk and drink it",
+        "३) Drink basil leaves or boil them",
+        "४) Turmeric tea or spicy tea helps in reducing stomach pain",
+        "५) Take two tablets of Shankhavati three to four times a day with warm water",
+        "६) Take two tablets of Arogyavardhini two to three times a day",
+        "७) Consuming ginger and honey together can provide relief from stomach pain",
+        "८) Drink buttermilk with rock salt frequently",
+        "९) Fresh coconut water is an effective remedy for stomach troubles",
+        "१०) Drinking cumin water improves digestion and provides relief from stomach pain",
+        "११) Drinking mint water or chewing mint leaves can reduce gas in the stomach and aid digestion",
+        "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"]
+			}
+		},
+		{
+			"id": 27,
+			"disorderId": 27,
+			"name": "कान दुखणे (Ear pain)",
+			"symptoms": {
+				"mr": [
+          "१) कानामध्ये खाज येणे",
+          "२) कानातून पाणी किंवा रक्त बाहेर येणे",
+          "३) कानात गुंज किंवा घंटी वाजण्याचा आवाज येणे",
+          "४) चावताना किंवा जबडा हलवताना कानात वेदना होणे"
+        ],
+				"en": [
+          "१) Itching in the ear",
+          "२) Water or blood coming out of the ear",
+          "३) Hearing a buzzing or ringing sound in the ear",
+          "४) Pain in the ear while eating or moving the jaw"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) तीळ तेल उबदार करा आणि ते दोन तीन थेंब कानात घाला तीळ तेल कानाचे दर्द कमी करू शकते",
+          "२) ज्येष्ठमध व अनंत मूळ याचे चूर्ण तुपात कालवून वा मिसळून त्याचा कानाभोवती लेप करावा",
+          "३) अजवाइनला भाजून त्याच्या दोराने कानाचा त्रास कमी होऊ शकतो अजवाइनचे धुके कानापर्यंत पोहोचून दहा-पंधरा मिनिटे थांबावे",
+          "४) आल्याच्या रसाचे दोन तीन थेंब सकाळी व रात्री कानात सोडावेत",
+          "५) एका एखाद्या फडक्याची घडी करून ती गरम तव्यात गरम करून त्याने कानाच्या सभोवतालचा भाग चांगला शेकावा चांगला लाभ होतो",
+          "६) ज्येष्ठमध व अनंत मूळ यांचे चूर्ण तुपात कालवून व मिसळून त्याचा कानाभोवती लेप करावा",
+          "७) कर्णफुल तेल किंवा कर्णबिंदूत तेल यापैकी कोणत्याही एका तेलाचे दोन किंवा तीन थेंब कानात दिवसातून दोन-तीन वेळा घालावेत गरम करून घातल्यास उत्तम",
+          "८) एखाद्या फडक्याची घडी करून ती गरम तव्यात गरम करून त्याने कानाच्या सभोवतालचा भाग चांगला शेखावा चांगला लाभ होतो",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"
+        ],
+				"en": [
+          "१) Warm sesame oil and put two to three drops in the ear, sesame oil can reduce ear pain",
+          "२) Mix the powder of Jyeshthamadh and Anant Mool in ghee and apply it around the ear",
+          "३) Roast ajwain and use its smoke to reduce ear trouble, let the smoke of ajwain reach the ear and stay for ten to fifteen minutes",
+          "४) Put two to three drops of ginger juice in the ear in the morning and evening",
+          "५) Make a poultice of a hot cloth and apply it around the ear, it provides good relief",
+          "६) Mix the powder of Jyeshthamadh and Anant Mool in ghee and apply it around the ear",
+          "७) Put two to three drops of Karnaphul oil or Karnabindu oil in the ear two to three times a day, it is best to warm it before putting it",
+          "८) Make a poultice of a hot cloth and apply it around the ear, it provides good relief",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"
+        ]
+			}
+		},
+		{
+			"id": 28,
+			"disorderId": 28,
+			"name": "सर्दी पडसे (Common cold)",
+			"symptoms": {
+				"mr": [
+          "१) नाक गळणे किंवा नाक बंद होणे",
+          "२) हलकी ताप येणे",
+          "३) नाकातून पाणी येणे",
+          "४) शिंक येणे"
+        ],
+				"en": [
+          "१) Runny or stuffy nose",
+          "२) Mild fever",
+          "३) Cough",
+          "४) Sore throat"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१)लिंबाचा रसात थोडा गूळ घालून ते चाटण दिवसातून तीन-चार वेळा खावे",
+          "२) आले आणि मग एकत्र करून सेवन केल्याने सर्दी कमी होते आणि शरीराची प्रतिकारशक्ती वाढते",
+          "३) वारंवार गरम पाणी प्यावे",
+          "४) एक चमचा आल्याचा व तुळशीचा रस घेऊन त्यात एक चमचा मध मिश्रित करून ते खावे असे दिवसातून दोन-तीन वेळा करावे",
+          "५) तुळशीच्या पानाचा काढा किंवा त्याचे पाणी प्यायल्याने सर्दी आणि गळ्याच्या दुखण्यात आराम मिळतो",
+          "६) सुंठ तुळशीचे पाने मिरी गवती चहा पुदिना यांचा काढा करून त्यात थोडा गुळ घालून तो काढा गरम गरम अर्धा कप सकाळी व अर्धा कप रात्री घ्यावा",
+          "७) सुंठ पाण्यात उगाळून गरम करून तिचा लेप कपाळावर करावा",
+          "८) चहात तुळशीची पाच-सहा पाने थोडे आले टाकून तो चांगला उकळून घ्यावा",
+          "९) आले पाच ग्रॅम व गूळ पाच ग्रॅम एकत्र मिसळून त्याच्या शेंगादाण्या एवढ्या आकाराच्या गोळ्या बनवून दोन तीन गोळ्या गरम पाण्याबरोबर घ्याव्यात",
+          "१०) त्रिफळा चूर्ण एक ग्रॅम झोपताना पाण्याबरोबर घ्यावे",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टोरांचा सल्ला घेणे आवश्यक आहे"],
+				"en": [
+          "१) Apply a little jaggery to the lemon juice and eat it three to four times a day",
+          "२) If you eat ginger and jaggery together, the cold will decrease and the body's immunity will increase",
+          "३) Frequently drink warm water",
+          "४) Mix a spoonful of ginger and a spoonful of jaggery in it and eat it two to three times a day",
+          "५) Drinking the juice of basil leaves or drinking its water can provide relief from cold and throat pain",
+          "६) Mix a spoonful of ginger and jaggery in the juice of basil leaves, coriander leaves, and mint leaves and drink it half a cup in the morning and half a cup at night",
+          "७) Grind ginger in water, heat it and apply its paste on the head",
+          "८) Take six to seven leaves of basil and six to seven grams of jaggery together and eat it",
+          "९) Take eleven grams of aloe vera and six grams of jaggery together and make two to three balls of this size and eat them with warm water",
+          "१०) Take one gram of trifala powder with water at night",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"]
+			}
+		},
+		
+		{
+			"id": 29,
+			"disorderId": 29,
+			"name": "मधुमेह (Diabetes)",
+			"symptoms": {
+				"mr": [
+          "१) वजनात घट होणे",
+          "२) वारंवार लघवीला जाणे",
+          "३) जखम किंवा कट लागली की ती भरून न येणे",
+          "४) जास्त भूक लागणे",
+          "५) अधिक तहान लागणे"
+        ],
+				"en": [
+          "१) Weight loss",
+          "२) Frequent urination",
+          "३) Wounds or cuts not healing",
+          "४) Increased hunger",
+          "५) Increased thirst"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१)मेथीचे दाणे पाणी किंवा दुधात घालून उकडून सेवन केल्यास रक्तातील साखरेचे प्रमाण नियंत्रणात राहते",
+          "२)बेलाच्या पानाचा रस दोन दोन वा तीन चमचे घ्यावा",
+          "३) कारल्याचा रस दोन दोन व तीन चमचे घ्यावा",
+          "४) चंद्रप्रभा वटी दोन-दोन गोळ्या दिवसातून दोन-तीन वेळा घ्याव्या",
+          "५) जम्बासव चार चार चमचे सकाळी व संध्याकाळी घ्यावे",
+          "६) हळदीची चूर्ण एक ग्रॅम तीन चमचे आवळ्याच्या रसात मिसळून त्यात एक चमचा मध घालून घ्यावे",
+          "७) कडू कारले व आवळा रस काढणे व दोन दोन चमचे सकाळ संध्याकाळ घेणे",
+          "९) सिताफळाची चार पाने खाणे व तीन किमी चालणे",
+          "१०) एक-दोन चमचे मेथीचे दाणे पाण्यात रात्री भिजत ठेवून सकाळी त्याचे सेवन करा",
+          "११) तुळशीच्या पानाचे सेवन केल्यास रक्तातील साखरेला नियंत्रित ठेवण्यास उपयुक्त आहे",
+          "१२) कोरफडीचा रस एक चमचा रोज सेवन केल्यास शरीरातील साखरेचे प्रमाण कमी होण्यास मदत होऊ शकते",
+          "१३) आंब्याच्या पानाचा काढा पिल्याने रक्तातील साखरेचे प्रमाण कमी होऊ शकते",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"],
+				"en": [
+          "१) Fenugreek seeds soaked in water or milk and consumed help control blood sugar levels",
+          "२) Take two to three teaspoons of bael leaf juice",
+          "३) Take two to three teaspoons of karal juice",
+          "४) Take two to two tablets of Chandraprabha vati twice to three times a day",
+          "५) Take four to four teaspoons of Jambsav in the morning and evening",
+          "६) Mix one gram of turmeric powder with three teaspoons of amla juice and one teaspoon of honey and consume",
+          "७) Prepare a decoction of bitter gourd and amla juice and take two teaspoons in the morning and evening",
+          "९) Eat four leaves of sitafal and walk three kilometers",
+          "१०) Soak one to two teaspoons of fenugreek seeds in water overnight and consume in the morning",
+          "११) Consuming tulsi leaves helps regulate blood sugar levels",
+          "१२) Consuming one teaspoon of karela juice daily can help reduce body sugar levels",
+          "१३) Drinking a decoction of mango leaves can help reduce blood sugar levels",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"]
+				
+			}
+		},
+		{
+			"id": 30,
+			"disorderId": 30,
+			"name": "खोकला (Cough)",
+			"symptoms": {
+				"mr": [
+          "१) सतत खोकला येणे",
+          "२) गळ्यात खराखुरा किंवा खाज सुटणे",
+          "३) श्वासोच्छ्वासात अडचण किंवा जडता",
+          "४) श्वास घेण्यास त्रास होणे",
+          "५) घशात दुखणे किंवा जलन होणे"
+        ],
+				"en": [
+          "१) Continuous coughing",
+          "२) Itching or scratching in the throat",
+          "३) Difficulty or heaviness in breathing",
+          "४) Difficulty in taking breath",
+          "५) Pain or burning in the throat"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) छाती, गळा, मान, पाठ या भागांना तेल लावून गरम तव्यात फडके गरम करून त्याने शेकावे वा गरम पाण्याने अंघोळ करावी ",
+          "२) तुळशीची पानं: तुळशीच्या पानांची काढा किंवा चहा तयार करा. यामध्ये अँटीबायोटिक आणि अँटीइन्फ्लेमेटरी गुणधर्म असतात, जे खोकला कमी करण्यास मदत करतात",
+          "३) यष्टिमधुचूर्ण: १ ग्रॅम या प्रमाणात दिवसातून ३-४ वेळा तुपाबरोबर खावे किंवा ५ ग्रॅम यष्टिमधुचूर्ण घेऊन ते गरम पाण्यात चांगले उकळावे व नंतर गाळून अर्धा अर्धा कप दिवसातून २-३ वेळा घ्यावे ",
+          "४) हळद आणि दूध: हळद आणि दूध एकत्र करून गरम करून प्यावे. हळदीमध्ये अँटीबायोटिक गुणधर्म असतात जे शरीरातील इन्फेक्शन कमी करण्यास मदत करतात",
+          "५) सुंठीचे चूर्ण: ५०० मि. ग्रॅ ते १ ग्रॅम व सैंधव मीठ ५०० मि.ग्रॅ. एकत्र करून ते तीळाच्या तेलाबरोबर घ्यावे ",
+          "६) आल्याचे मिश्रण: आलं आणि मध एकत्र करून खाल्ल्याने गळ्यातील सूज कमी होते आणि खोकला थांबतो ",
+          "७) द्राक्षासव वा द्राक्षारिष्ट: जेवणानंतर ४,४ चमचे घ्यावे",
+          "८) खारी पाणी: गळ्यात सूज आणि कफ जाणवते तेव्हा खारट पाणी गरम करून गुळगुळीत गरारे करा. यामुळे गळ्यातील सूज कमी होईल",
+          "९) कर्पूरादि वटी: २,२ गोळ्या प्रत्येक ३,४ तासाने चघळून खाव्यात",
+          "१०) अजवाइन व जिरं अजवाइनच्या दाण्यांमध्ये एक चमचा जिरं घालून ते भाजून त्यांचा चहा बनवा.याने श्वास साफ होतो आणि खोकला कमी होतो:यातले उपाय करून देखील खोकला जास्त टिकून राहिल्यास डॉक्टरांचा सल्ला घेणं योग्य ठरेल", 
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"],
+				"en": [
+          "१) Apply oil to the chest, throat, neck, and back, and then take a warm bath or steam inhalation",
+          "२) Basil leaves: Prepare a decoction or tea from basil leaves. It has antibacterial and anti-inflammatory properties that help reduce cough",
+          "३) Yashtimadhu powder: Take 1 gram of Yashtimadhu powder with ghee 3-4 times a day or boil 5 grams of Yashtimadhu powder in warm water, strain, and take half a cup 2-3 times a day",
+          "४) Turmeric and milk: Mix turmeric and milk, heat it, and drink. Turmeric has antibacterial properties that help reduce infections in the body",
+          "५) Ginger powder: Mix 500 mg to 1 gram of ginger powder with 500 mg of rock salt and take it with sesame oil",
+          "६) Ginger mixture: Mixing ginger and honey and consuming it reduces swelling in the throat and stops cough",
+          "७) Drakshasava or Draksharishta: Take 4,4 spoons after meals",
+          "८) Salty water: When there is swelling and mucus in the throat, gargle with warm salty water. This reduces swelling in the throat",
+          "९) Karpooradi vati: Take 2,2 tablets every 3,4 hours",
+          "१०) Ajwain and cumin: Mix one spoon of cumin in ajwain seeds, roast them, and make a tea. This clears the breath and reduces cough. If cough persists after trying these remedies, it is advisable to consult a doctor", 
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"]
+				
+			}
+		},
+		
+		{
+			"id": 31,
+			"disorderId": 31,
+			"name": "अजीर्ण/अपचन (Indigestion)",
+			"symptoms": {
+				"mr": [
+          "१) पोटात गडगड होणे किंवा पोट फुगणे",
+          "२) गॅस पास होण्याची समस्या",
+          "३) पोटात आंबटपणा किंवा जळजळ जाणवणे",
+          "४) जास्त वायू होणे",
+          "५) गिळताना त्रास होणे"
+        ],
+				"en": [
+          "१) Stomach pain or bloating",
+          "२) Gas problems",
+          "३) Stomach upset or bloating",
+          "४) Excessive gas",
+          "५) Pain when swallowing"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१) संपूर्ण दिवस कडक उपवास करावा",
+          "२) आल्याच्या तुकड्यांवर थोडं हळद घालून ते खाल्ल्याने पचन सुधारू शकतं. आलं पचनाच्या त्रासासाठी एक उत्तम उपाय आहे",
+          "३) गरम पाणी वारंवार प्यावे",
+          "४) पचनाच्या त्रासाच्या वेळी गुळ घालून पाणी प्यायला हवं. गुळामुळे पचनाच्या क्रियेला चालना मिळते ",
+          "५) पुदिना पाचनाला उत्तेजन देतो. पुदिन्याची चहा किंवा पाणी प्यायल्याने इन्कायच्या त्रासात आराम मिळतो",
+          "६) पाण्यात धने, सुंठ सारखे पदार्थ घालून ते उकळावे व ते पाणी (चहासारख गरम) वारंवार प्यावे ",
+          "७)आमसुल आणि मीठ एकत्र करून पिण्याने पचनाची प्रक्रिया सुधारते",
+          "८) लोणी काढलेल्या ग्लासभर ताकात सुंठ, मिरी, पिंपळी (त्रिकुट चूर्ण) पाव ते अर्धा चमचा टाकून ते ताक प्यावे",
+          "९) जिरे पाचन सुधारण्यासाठी खूप फायद्याचे आहे. जिरे पाणी पिऊन हवं तर त्याचे पाणी प्या",
+          "१०) लसणाच्या ३ , ४ कुड्या भाकरीच्या वा चपातीच्या घासात घालून खाव्यात ",
+          "११) सिंहकंद व मीठ एकत्र खाल्ल्याने पचनाच्या समस्या कमी होतात",
+          "१२) खडीसाखर व मध खावा",
+          "१३) सिंहकंद पचवण्यासाठी चांगला आहे. त्याच्या ताज्या पावडरला पाणी सोबत सेवन केल्याने पचन क्रिया सुरळीत राहते",
+          "१४) धने व सुंठ घातलेले पाणी प्यावे ",
+          "सूचना:- हे घरगुती उपाय आहेत  जर समस्या वाढली असेल तर डॉक्टरांचा सल्ला घेणे आवश्यक आहे"],
+				"en": [
+          "१) Complete fasting for the entire day",
+          "२) Adding a little turmeric to ginger pieces and eating them can improve digestion. Ginger is an excellent remedy for digestive problems",
+          "३) Drink warm water frequently",
+          "४) When experiencing digestive issues, drink water with jaggery. Jaggery stimulates digestive processes",
+          "५) Mint stimulates digestion. Drinking mint tea or water provides relief from digestive issues",
+          "६) Boil coriander, ginger, and other herbs in water and drink it (like tea) frequently",
+          "७) Drinking a mixture of amla and salt improves the digestive process",
+          "८) Mix 1/2 teaspoon of trikatu powder (ginger, black pepper, and long pepper) in a glass of buttermilk and drink it",
+          "९) Cumin is very beneficial for improving digestion. Drinking cumin water or tea is beneficial",
+          "१०) Eat 3-4 cloves of garlic in a bread or chapati",
+          "११) Eating singhara and salt together reduces digestive problems",
+          "१२) Eat rock sugar and honey",
+          "१३) Singhara is good for digestion. Consuming its fresh powder with water helps maintain smooth digestion",
+          "१४) Drink water infused with coriander and ginger",
+          "Note:- These are home remedies. If the problem worsens, it is necessary to consult a doctor"]
+			}
+		},
+		{
+			"id": 32,
+			"disorderId": 32,
+			"name": "अतिसार (Diarrhoea)",
+			"symptoms": {
+				"mr": [
+          "१) वारंवार मळमळ करणे",
+          "२) उलटी होने किंवा मळमळ होणे",
+          "३) पोटात वेदना होणे",
+          "४) शरीरास थकवा कमजोरी जाणवणे",
+          "५) डीहायड्रेशन किंवा पाणी कमी होणे ज्यामुळे वोट वाढलेले त्वचा कोरडी किंवा थकवा जाणू शकतो"
+        ],
+				"en": [
+          "१) Frequent bowel movements",
+          "२) Vomiting or frequent bowel movements",
+          "३) Abdominal pain",
+          "४) Feeling of weakness and fatigue in the body",
+          "५) Dehydration or water loss, which can cause dry skin, fatigue, or increased urine output"
+        ]
+			},
+			"remedies": {
+				"mr": [
+          "१)डायरिया मुळे शरीरात पाणी आणि इतर इलेक्ट्रोलाइट्स कमी होतात. यासाठी ओआरएस (ओरल रिहायड्रेशन सोल्यूशन) किंवा घरगुती उपाय म्हणून १ लिटर पाणी, ६ चमचे साखर आणि १/२ चमचा मीठ मिसळून प्यायला हवे",
+          "२)सुंठ, नागरमोथा, वेखंड ही औषधी द्रव्ये घालून गरम केलेले पाणी पिणे",
+          "३)BRAT आहार म्हणजे बॅनाना (केळी), भात, सफरचंद सॉस आणि टोस्ट. हे पदार्थ पचनासाठी हलके असतात आणि पोटावर कमी ताण टाकतात",
+          "४)धने व सुंठ यांच्या काढ्यात थोडी खडीसाखर घालून तो काढा घ्यावा.",
+          "५)आलेमध्ये सूज कमी करणारी आणि पचन सुधारणारी गुणधर्म असतात. आल्याचा एक छोटा तुकडा चघळा किंवा आलेचे गरम पाणी प्यायला हवे",
+          "६)संजीवनीवटी : २ - २ गोळ्या दिवसातून ३ - ४ वेळा घ्याव्यात",
+          "७)एक किंवा दोन चमचे सिडर व्हिनेगर १ कप गोड पाणी सोबत मिसळून प्यायल्याने पचनशक्ती सुधारते आणि पोटाची जळजळ कमी होते",
+          "८)चामोमाइलमध्ये गॅस्ट्रोइंटेस्टाइनल समस्यांसाठी आराम देणारे गुणधर्म असतात. चामोमाइल चहा पिऊन पोटदर्द आणि सूज कमी होऊ शकते",
+          "९)हिरडाचूर्ण : १ ग्रॅम या प्रमाणात रात्रौ गरम पाण्याबरोबर घ्यावे",
+          "१०)नारळपाणी इलेक्ट्रोलाइट्स आणि पाणी पुनःप्राप्त करण्यासाठी उत्तम आहे, ज्यामुळे शरीर हायड्रेटेड राहते",
+          "११)शंखवटी : २,२ गोळ्या दिवसातून २- ३ वेळा गरम पाण्याबरोबर घ्याव्या",
+          "१२)साधी उकडलेली बटाटे (तूप व मसाले वगळता) पचनासाठी हलकी असतात आणि पोटावर आराम देतात.",
+          "१३)त्रिफळाचूर्ण अर्धा ते १ ग्रॅम घेऊन त्यात २५० मि. ग्रॅ. शंखभस्म घालून ते गरम पाण्याबरोबर प्यावे:जर डायरिया २-३ दिवसांहून अधिक काळ टिकला, किंवा ताप, रक्त किंवा इतर गंभीर लक्षण"],
+				"en": [
+          "१) Diarrhea can cause the body to lose water and other electrolytes. For this, ORS (Oral Rehydration Solution) or a home remedy of 1 liter of water, 6 tablespoons of sugar and 1/2 teaspoon of salt should be drunk",
+          "२) Drink hot water with ginger, peppermint, and fennel",
+          "३) BRAT diet means banana, rice, applesauce and toast. These foods are easy to digest and put less strain on the stomach",
+          "४) Boil a little sugar and ginger in water and drink it",
+          "५) Aloe vera has anti-inflammatory and digestive properties. A small piece of aloe vera can be chewed or aloe vera juice can be drunk",
+          "६) Sanjeevani Vati: Take 2 - 2 tablets 3 - 4 times a day",
+          "७) Drink a cup of warm water mixed with one or two tablespoons of cider vinegar. This improves digestion and reduces stomach bloating",
+          "८) Chamomile has properties that provide relief for gastrointestinal problems. Drinking chamomile tea can reduce stomach pain and bloating",
+          "९) Hirda Churna: Take 1 gram of this at night with warm water",
+          "१०) Coconut water is best for rehydrating the body, which keeps the body hydrated",
+          "११) Shankhavati: Take 2,2 tablets 2- 3 times a day with warm water",
+          "१२) Boiled potatoes (peeled and mashed) are light for digestion and provide relief to the stomach.",
+          "१३) Take half to 1 gram of Triphala Churna with 250 ml of water and Shankh Bhasma. Drink it with warm water: If diarrhea lasts for more than 2-3 days, or if there is fever, blood or other serious symptoms"
+        ]
+			}
+		}
+	]
+}

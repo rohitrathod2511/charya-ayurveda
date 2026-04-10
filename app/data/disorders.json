@@ -1,0 +1,196 @@
+{
+	"disorders": [
+		{
+			"id": 1,
+			"name": "आम्लपित्त (Hyperacidity)",
+			"description": "पोटात वेदना किंवा जडपणाची भावना",
+			"category": "पचन विकार"
+		},
+		{
+			"id": 2,
+			"name": "आमांश (Amoebic Dysentry)",
+			"description": "पोटात वेदना किंवा जड पण होऊ शकते विशेषता पोटाच्या खालच्या भागात",
+			"category": "पचन विकार"
+		},
+		{
+			"id": 3,
+			"name": "मूळव्याध (PILES)",
+			"description": "मलद्वारातून रक्त येणे जे मुळव्याधाचे प्रमुख लक्षण आहे",
+			"category": "मलद्वार विकार"
+		},
+		{
+			"id": 4,
+			"name": "तोंड येणे (Stomatitis)",
+			"description": "तोंडात व्रण येणे व जळजळ होणे",
+			"category": "मुख विकार"
+		},
+		{
+			"id": 5,
+			"name": "कंबर दुखी (Waist pain)",
+			"description": "कमरेमध्ये वेदना व जडपणा",
+			"category": "स्नायू विकार"
+		},
+		{
+			"id": 6,
+			"name": "आवाज बसणे (Horseness of voice)",
+			"description": "आवाज कमी होणे किंवा बदलणे",
+			"category": "श्वसन विकार"
+		},
+		{
+			"id": 7,
+			"name": "चेहऱ्यावरील डाग व सुरकुत्या (Spots and wrinkles on the face)",
+			"description": "त्वचेवर डाग व सुरकुत्या येणे",
+			"category": "त्वचा विकार"
+		},
+		{
+			"id": 8,
+			"name": "स्मरणशक्ती कमी होणे (Loss of memory)",
+			"description": "विवरण विसरणे व नवीन माहिती न समजणे",
+			"category": "मानसिक विकार"
+		},
+		{
+			"id": 9,
+			"name": "सर्वांगाची आग होणे (Body itching)",
+			"description": "सर्वांगाची वा एखाद्या अवयवाच्या आग होणे",
+			"category": "त्वचा विकार"
+		},
+		{
+			"id": 10,
+			"name": "संधिवात (Osteoarthritis)",
+			"description": "सांध्यामध्ये सूज येणे व वेदना होणे",
+			"category": "सांधे विकार"
+		},
+		{
+			"id": 11,
+			"name": "चक्कर येणे (Fits)",
+			"description": "अस्थिरता किंवा डोके फिरणे",
+			"category": "मानसिक विकार"
+		},
+		{
+			"id": 12,
+			"name": "केस गळती (Hair fall)",
+			"description": "केस गळण्याची वाढती मात्रा",
+			"category": "केस विकार"
+		},
+		{
+			"id": 13,
+			"name": "बद्धकोष्ठता (Constipation)",
+			"description": "स्वच्छ साफ न होणे व पोट गच्च राहणे",
+			"category": "पचन विकार"
+		},
+		{
+			"id": 14,
+			"name": "रांजणवाडी (Stye)",
+			"description": "डोळ्याच्या पापणीवर लालसर गाठी येणे",
+			"category": "नेत्र विकार"
+		},
+		{
+			"id": 15,
+			"name": "जंत - कृमी (Worms)",
+			"description": "पोटात कृमी होणे",
+			"category": "पचन विकार"
+		},
+		{
+			"id": 16,
+			"name": "उलटी होणे (Vomiting)",
+			"description": "मळमळ व उलटी होणे",
+			"category": "पचन विकार"
+		},
+		{
+			"id": 17,
+			"name": "पाय फुटणे (Wrinkling of legs)",
+			"description": "टाचेला भेगा पडणे",
+			"category": "त्वचा विकार"
+		},
+		{
+			"id": 18,
+			"name": "ताप (Fever/Pyrexia)",
+			"description": "शरीराचे तापमान वाढणे",
+			"category": "सामान्य विकार"
+		},
+		{
+			"id": 19,
+			"name": "जठराची सूज (Gastritis)",
+			"description": "पोट दुखणे व पचन संबंधी समस्या",
+			"category": "पचन विकार"
+		},
+		{
+			"id": 20,
+			"name": "डोके दुखी (Headache)",
+			"description": "डोक्यात वेदना होणे",
+			"category": "मानसिक विकार"
+		},
+		{
+			"id": 21,
+			"name": "गांधी उठणे (Urticaria)",
+			"description": "त्वचेला खाज येणे व लालसर फोड येणे",
+			"category": "त्वचा विकार"
+		},
+		{
+			"id": 22,
+			"name": "उचकी (Hiccups)",
+			"description": "घशामध्ये अचानक धक्काच किंवा हिक आवाज येणे",
+			"category": "श्वसन विकार"
+		},
+		{
+			"id": 23,
+			"name": "लघविला त्रास होणे (Painful Micturation)",
+			"description": "लघवी करताना वेदना होणे",
+			"category": "मूत्र विकार"
+		},
+		{
+			"id": 24,
+			"name": "मुतखडा (Kidney Stone)",
+			"description": "मूत्रमार्गात खडा होणे",
+			"category": "मूत्र विकार"
+		},
+		{
+			"id": 25,
+			"name": "मुरगळणे (Wriggling)",
+			"description": "स्नायू दुखणे व अनैच्छिक हालचाल",
+			"category": "स्नायू विकार"
+		},
+		{
+			"id": 26,
+			"name": "पोट दुखी (Stomach pain)",
+			"description": "पोटात वेदना व गॅस होणे",
+			"category": "पचन विकार"
+		},
+		{
+			"id": 27,
+			"name": "कान दुखणे (Ear pain)",
+			"description": "कानात वेदना व त्रास होणे",
+			"category": "कर्ण विकार"
+		},
+		{
+			"id": 28,
+			"name": "सर्दी पडसे (Common cold)",
+			"description": "नाक गळणे व सर्दी होणे",
+			"category": "श्वसन विकार"
+		},
+		{
+			"id": 29,
+			"name": "मधुमेह (Diabetes)",
+			"description": "रक्तातील साखरेचे प्रमाण वाढणे",
+			"category": "रक्त विकार"
+		},
+		{
+			"id": 30,
+			"name": "खोकला (Cough)",
+			"description": "सतत खोकला येणे",
+			"category": "श्वसन विकार"
+		},
+		{
+			"id": 31,
+			"name": "अजीर्ण/अपचन (Indigestion)",
+			"description": "पोटात गडगड होणे व पचन न होणे",
+			"category": "पचन विकार"
+		},
+		{
+			"id": 32,
+			"name": "अतिसार (Diarrhoea)",
+			"description": "वारंवार जुलाब होणे",
+			"category": "पचन विकार"
+		}
+	]
+}
