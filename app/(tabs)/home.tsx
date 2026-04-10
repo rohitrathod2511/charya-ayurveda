@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { View, StyleSheet, ScrollView, TouchableOpacity, ImageBackground, Platform } from 'react-native';
+import { View, StyleSheet, ScrollView, TouchableOpacity, ImageBackground, Platform, Text as RNText } from 'react-native';
 import { Searchbar, Text, IconButton } from 'react-native-paper';
 import { useRouter } from 'expo-router';
 import { DrawerActions, useNavigation } from '@react-navigation/native';
@@ -121,7 +121,11 @@ export default function HomePage() {
 	}));
 
 	if (!fontsLoaded) {
-		return null;
+		return (
+			<View style={{ flex: 1, backgroundColor: '#F5F5F5', justifyContent: 'center', alignItems: 'center' }}>
+				<RNText style={{ color: '#0B3B2D', fontSize: 16 }}>Loading...</RNText>
+			</View>
+		);
 	}
 
 	const handleSearch = (query: string) => {

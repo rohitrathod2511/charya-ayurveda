@@ -4,9 +4,6 @@ import { useRouter } from 'expo-router';
 import { Text } from 'react-native-paper';
 import * as SplashScreen from 'expo-splash-screen';
 
-// Prevent the native splash screen from auto-hiding
-SplashScreen.preventAutoHideAsync();
-
 export default function Index() {
 	const router = useRouter();
 	const fadeAnim = useRef(new Animated.Value(0)).current;
